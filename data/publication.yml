@@ -9,10 +9,10 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Nuclear Compensation
+subtitle: 
 reading_line:
-short_title:
+short_title: Nuclear Compensation
 
 description:
   one_line:
@@ -24,7 +24,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2019-03-01 # YYYY-MM-DD
+pub_date: 2021-03-11 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -32,10 +32,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: Northwestern University Libraries
+    location: Evanston
     url:
-    logo: logo-getty.png
+    logo: logo-northwestern.svg
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -44,21 +44,84 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: hmiyazaki
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - id:
-    type:
-    first_name:
-    last_name:
+    first_name: Hirokazu 
+    last_name: Miyazaki
+    title: Kay Davis Professor, Professor of Anthropology
+    affiliation: Northwestern University
+    bio:
+    url: https://anthropology.northwestern.edu/people/faculty/hirokazu-miyazaki.html
+    pic:
+  - id: yashina
+    type: secondary
+    first_name: Yuki 
+    last_name: Ashina
+    title: Attorney-at-Law
+    affiliation: Shizuoka Bar Association
+    bio:
+    url:
+    pic:
+  - id: stakahashi
+    type: secondary
+    first_name: Satsuki
+    last_name: Takahashi
+    title: Faculty of Sustainability Studies
+    affiliation: Hosei University
+    bio:
+    url:
+    pic:
+  - id: nfujinaga
+    type: secondary
+    first_name: Nobuyo
+    last_name: Fujinaga
+    title:
+    affiliation: Osaka City Residents Network
+    bio:
+    url:
+    pic:
+  - id: tsuami
+    type: secondary
+    first_name: Takao
+    last_name: Suami
+    title: Faculty of Law
+    affiliation: Waseda University
+    bio:
+    url:
+    pic:
+  - id: mmitchell
+    type: secondary
+    first_name: M. X.
+    last_name: Mitchell
     title:
     affiliation:
+    bio:
+    url:
+    pic:
+  - id: sschmid
+    type: secondary
+    first_name: Sonja D.
+    last_name: Schmid
+    title: 
+    affiliation: Virginia Polytechnic Institute and State University
+    bio:
+    url:
+    pic:
+  - id: ariles
+    type: secondary
+    first_name: Annalise
+    last_name: Riles
+    title: 
+    affiliation: Northwestern University
+    bio:
+    url:
+    pic:
+  - id: dyokomizo
+    type: secondary
+    first_name: Dai
+    last_name: Yokomizo
+    title: 
+    affiliation: 
     bio:
     url:
     pic:
@@ -67,13 +130,13 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2021 The Authors
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International License
+  abbreviation: CC BY-NC-ND
+  url: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  scope: some-exceptions # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -102,11 +165,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.northwestern.edu/privacy/index.html
   - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
+    name: Disclaimer
+    link_relation: disclaimer
+    url: https://www.northwestern.edu/disclaimer.html
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -145,4 +208,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: cover-nuclear-protest-sepia.jpg
