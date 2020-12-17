@@ -5,9 +5,11 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: cover-nuclear-protest-hat.jpg
-img_src: https://flic.kr/p/9xnbxg
+image: cover-cranes.jpg
+img_src: https://flic.kr/p/9r2sZz
 ---
+
+## Call to Action
 
 This report shows that compensation plans have not met the needs of victims of nuclear disasters for three primary reasons:
 

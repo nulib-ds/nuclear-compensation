@@ -41,7 +41,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: "Edited by Hirokazu Miyazaki"
 
 contributor:
   - id: hmiyazaki
@@ -109,7 +109,7 @@ contributor:
     pic:
   - id: ariles
     type: secondary
-    first_name: Annalise
+    first_name: Annelise
     last_name: Riles
     title: 
     affiliation: Northwestern University

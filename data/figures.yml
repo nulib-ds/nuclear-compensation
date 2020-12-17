@@ -87,4 +87,9 @@ figure_list:
     src: figures/family.jpg
     caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
     credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "ichiyomuto"
+    src: 
+    caption: "3-11-12 Symposium: Ichiyo Muto (People’s Plan Study Group) Full Interview"
+    credit: "Cornell East Asia Program"
+    media_type: vimeo
+    media_id: 151186500

@@ -3,6 +3,7 @@ title: Introduction
 subtitle: Nuclear Compensation
 weight: 3
 type: page
+class: page-one
 #image: figures/lange-house.jpg
 contributors:
     - id: hmiyazaki
