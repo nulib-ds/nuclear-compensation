@@ -10,15 +10,14 @@
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Nuclear Compensation
-subtitle: 
+subtitle: Lessons from Fukushima
 reading_line:
 short_title: Nuclear Compensation
 
 description:
-  one_line:
+  one_line: In this report we call for the creation of a forum that enables laypersons and experts to engage in an ongoing conversation about nuclear disaster compensation issues before the next disaster occurs.
   full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+    This report shows that compensation plans have not met the needs of victims of nuclear disasters for three primary reasons: compensation plans have been devised by unelected officials and without full public knowledge or participation, governments have often capped the liability of the owners of nuclear facilities, which distorts cost-benefit analysis and creates a moral hazard,international conventions limit compensation and responsibility for nuclear disasters. Both Chernobyl and Fukushima demonstrate that these limits may be too low. In this report we call for the creation of a forum that enables laypersons and experts to engage in an ongoing conversation about nuclear disaster compensation issues before the next disaster occurs.
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -34,7 +33,7 @@ identifier:
 publisher:
   - name: Northwestern University Libraries
     location: Evanston
-    url:
+    url: https://www.library.northwestern.edu/
     logo: logo-northwestern.svg
 
 # ------------------------------------------------------------------------------
@@ -148,16 +147,16 @@ resource_link:
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
-  - type: other-format
-    name: Kindle/MOBI
-    media_type: vnd.amazon.mobi8-ebook
-    link_relation: alternate
-    url: /downloads/output.mobi
+#  - type: other-format
+#    name: EPUB
+#    media_type: application/epub+zip
+#    link_relation: alternate
+#    url: /downloads/output.epub
+#  - type: other-format
+#    name: Kindle/MOBI
+#    media_type: vnd.amazon.mobi8-ebook
+#    link_relation: alternate
+#    url: /downloads/output.mobi
   - type: footer-link
     name: About
     link_relation: about
@@ -175,24 +174,24 @@ resource_link:
 # Subjects
 # ------------------------------------------------------------------------------
 
-subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "https://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "https://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "https://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "https://vocab.getty.edu/aat/300410245"
+#subject:
+#  - type: bisac
+#    name: PHOTOGRAPHY / Subjects & Themes / Historical
+#    identifer: PHO023100
+#  - type: getty
+#    name: Dorothea Lange
+#    identifier: "https://vocab.getty.edu/ulan/500007674"
+#  - type: keyword
+#    name: photography
+#  - type: getty
+#    name: Walker Evans
+#    identifier: "https://vocab.getty.edu/ulan/500012076"
+#  - type: getty
+#    name: black-and-white photography
+#    identifier: "https://vocab.getty.edu/aat/300162056"
+#  - type: getty
+#    name: despression (economic concept)
+#    identifier: "https://vocab.getty.edu/aat/300410245"
 
 # ------------------------------------------------------------------------------
 # Revision History
