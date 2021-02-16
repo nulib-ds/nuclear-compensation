@@ -23,7 +23,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2021-03-11 # YYYY-MM-DD
+pub_date: 2021-03-07 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -49,25 +49,28 @@ contributor:
     last_name: Miyazaki
     title: Kay Davis Professor, Professor of Anthropology
     affiliation: Northwestern University
-    bio:
-    url: https://anthropology.northwestern.edu/people/faculty/hirokazu-miyazaki.html
-    pic:
+    bio: |
+      Hirokazu Miyazaki was born in Tokyo and was originally trained in anthropology in Japan and at the Australian National University, where he earned a Ph.D. as a specialist of Fiji and the Pacific Islands. Miyazaki subsequently contributed to the formation of the interdisciplinary field of the social studies of finance. His current research focuses on the history of citizen diplomacy for peace and the world without nuclear weapons. In February 2018, Miyazaki was appointed by the Mayor of Nagasaki as a Peace Correspondent for Nagasaki. Before joining the NU Department of Anthropology as the Kay Davis Professor, Miyazaki taught anthropology at Cornell University for sixteen years. From July 2015-June 2018, Miyazaki served as the Director of the Mario Einaudi Center for International Studies and the John S. Knight Professor of International Studies at Cornell. Miyazaki’s research has long been driven by a very simple question: how do we keep hope alive? Miyazaki has investigated the question ethnographically in several different field sites: Suva, Fiji, Tokyo, Nagasaki and Rochester, N.Y.      
+    url: https://www.anthropology.northwestern.edu/people/faculty/hirokazu-miyazaki.html
+    pic: miyazaki.jpg
   - id: yashina
     type: secondary
     first_name: Yuki 
     last_name: Ashina
-    title: Attorney-at-Law
-    affiliation: Shizuoka Bar Association
-    bio:
-    url:
+    title: Attorney at Law
+    affiliation: Hinodecho  Law Office (Shizuoka Bar Association)
+    bio: |
+      Ashina Yuki is a lawyer currently based in Shizuoka City. Since Fukushima accident in 2011, she has engaged in supporting victims of the accident.
+    url: http://hinodecho-law.jp/aboutus/index2.html
     pic:
   - id: stakahashi
     type: secondary
     first_name: Satsuki
     last_name: Takahashi
-    title: Faculty of Sustainability Studies
+    title: Associate Professor
     affiliation: Hosei University
-    bio:
+    bio: |
+      Satsuki Takahashi is an anthropologist and associate professor in the Faculty of Sustainability Studies, Hosei University (Tokyo). She received her BS in Fisheries Science from the Tokyo University of Fisheries and her MA and PhD in Anthropology from Rutgers University. Before joining Hosei, she was an assistant professor in the Department of Sociology and Anthropology at George Mason University, and also served as the Toyota Visiting Professor at the Center for Japanese Studies at the University of Michigan (2015-2016). In addition to a number of academic articles and book chapters, she has published a co-edited book, To See Once More the Stars: Living in a post-Fukushima World (The New Pacific Press, 2014). She is currently preparing an ethnographic monograph, Fukushima Future, which discusses how the infamous seascape has been produced through entangled relationships among fishing families, the coastal environment, and Japan’s unending drive for futurism. 
     url:
     pic:
   - id: nfujinaga
@@ -83,46 +86,51 @@ contributor:
     type: secondary
     first_name: Takao
     last_name: Suami
-    title: Faculty of Law
-    affiliation: Waseda University
-    bio:
+    title: Professor of Law 
+    affiliation: Waseda Law School
+    bio: |
+      Takao Suami is a professor at Waseda University law School, in Tokyo, Japan. He studied law at the University of Tokyo (LL.B.), Cornell Law School (LL.M.) and the University of Leuven (KU Leuven) (LL.M.). He was previously an associate professor of Yokohama National University. He was also a visiting professor of Duke University law School in 2007 and of the University of Pennsylvania Law School in 2016. He is a former president of the Japanese Association of EU Studies, and a council member of the Japan Association of International Economic Law and a member of the board of trustees of the Japanese Association of International Law. His teaching and research interests lie in EU law, international economic law, competition law, professional responsibility and judicial policy making in Japan.
     url:
     pic:
   - id: mmitchell
     type: secondary
     first_name: M. X.
     last_name: Mitchell
-    title:
-    affiliation:
-    bio:
-    url:
+    title: Assistant Professor
+    affiliation: University of Toronto
+    bio: |
+      Mitchell is an assistant professor at the Centre for Criminology and Sociolegal Studies at the University of Toronto. Her work centers on the intersections of science and technology with law and environmental social movements in the nuclear era. Focusing on radiological risk, Mitchell's research examines the production of environmental inequality in the United States and transnationally.
+    url: http://www.mxmitchell.com/
     pic:
   - id: sschmid
     type: secondary
     first_name: Sonja D.
     last_name: Schmid
-    title: 
-    affiliation: Virginia Polytechnic Institute and State University
-    bio:
-    url:
-    pic:
+    title: Associate Professor
+    affiliation: Department of Science, Technology, and Society, Virginia Tech
+    bio: |
+      Sonja Schmid is an associate professor of Science and Technology Studies (STS), and serves as the co-director of the STS graduate program in Northern Virginia. For her first book, she studied the history and organization of the emerging Soviet nuclear industry. In other research, she traced the results of Soviet nuclear technology transfer to Central and East European nations that have since joined the European Union. She is particularly interested in examining the interface of national energy policies, technological choices, and nonproliferation concerns. For her most recent NSF-supported research project on the challenges of globalizing nuclear emergency response, she has worked with postdoctoral scholars Davide Orsini and Başak Saraç Lesavre, and has hosted a monthly speaker series (SIREN) that is now available as an online archive. She teaches courses in social studies of technology, science and technology policy, socio-cultural studies of risk, energy policy, and nuclear nonproliferation. Together with the Nuclear Engineering Program and the School of Public and International Affairs at Virginia Tech, she developed and launched an interdisciplinary graduate certificate in "Nuclear Science, Technology, and Policy". 
+    url: https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/sonja-schmid.html
+    pic: schmid.jpg
   - id: ariles
     type: secondary
     first_name: Annelise
     last_name: Riles
     title: 
     affiliation: Northwestern University
-    bio:
-    url:
-    pic:
+    bio: |
+      Annelise Riles is the Executive Director of the Roberta Buffett Institute for Global Studies at Northwestern University, enhancing Northwestern’s reputation for cutting-edge, interdisciplinary programs and research on globally relevant topics. Riles will also be the Associate Provost for Global Affairs and a professor of law and anthropology. Her scholarship spans a wide range of substantive areas including human rights, managing and accommodating cultural differences, and the regulation of the global financial markets. Key areas in legal studies include comparative law, the conflict of laws, financial regulation, socio-legal studies and international law. In anthropology, her work is known for its methodological contributions as well as for its contributions to the study of international institutions and expertise.
+    url: https://www.law.northwestern.edu/faculty/profiles/AnneliseRiles/
+    pic: riles.jpg
   - id: dyokomizo
     type: secondary
     first_name: Dai
     last_name: Yokomizo
     title: 
-    affiliation: 
-    bio:
-    url:
+    affiliation: Nagoya University, Graduate School of Law
+    bio: |
+      Dai YOKOMIZO is Professor of Law at Nagoya University, Graduate School of Law, Nagoya, Japan, where he has taught since 2008.  A graduate of The University of Tokyo Graduate School for Law and Politics (LL.B., LL.M.), Professor Yokomizo’s main research and teaching interests include Conflict of Laws (Private International Law), Comparative Law and Private Law Theory.  He is a member at the Committee on Intellectual Property and Private International Law of International Law Association, Associate Editor of the Japanese Yearbook of International Law, member of the Advisory Board of the Italian Law Journal, and Member of the International Committee of Rivista di Diritto Sportivo.
+    url: https://researchmap.jp/Dai_YOKOMIZO
     pic:
 
 # ------------------------------------------------------------------------------
@@ -174,24 +182,31 @@ resource_link:
 # Subjects
 # ------------------------------------------------------------------------------
 
-#subject:
-#  - type: bisac
-#    name: PHOTOGRAPHY / Subjects & Themes / Historical
-#    identifer: PHO023100
-#  - type: getty
-#    name: Dorothea Lange
-#    identifier: "https://vocab.getty.edu/ulan/500007674"
-#  - type: keyword
-#    name: photography
-#  - type: getty
-#    name: Walker Evans
-#    identifier: "https://vocab.getty.edu/ulan/500012076"
-#  - type: getty
-#    name: black-and-white photography
-#    identifier: "https://vocab.getty.edu/aat/300162056"
-#  - type: getty
-#    name: despression (economic concept)
-#    identifier: "https://vocab.getty.edu/aat/300410245"
+subject:
+  - type: bisac
+    name: LAW / Administrative Law & Regulatory Practice
+    identifer: LAW001000
+  - type: getty
+    name: POLITICAL SCIENCE / Public Policy / Energy Policy
+    identifier: POL068000
+  - type: bisac
+    name: POLITICAL SCIENCE / Public Policy / Science & Technology Policy
+    identifier: POL063000
+  - type: bisac
+    name: POLITICAL SCIENCE / Public Policy / Environmental Policy
+    identifier: POL044000 
+  - type: bisac
+    name: TECHNOLOGY & ENGINEERING / Power Resources / Nuclear
+    identifer: TEC028000
+  - type: keyword
+    name: nuclear disaster
+  - type: keyword
+    name: nuclear accident
+  - type: keyword
+    name: chernobyl
+  - type: keyword
+    name: fukushima
+
 
 # ------------------------------------------------------------------------------
 # Revision History
