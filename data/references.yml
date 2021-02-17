@@ -1,11 +1,97 @@
 entries:
-  - id: "Evans 1938"
-    full: "Evans, Walker. *American Photographs*. New York: Museum of Modern Art, 1938."
-  - id: "Lynd 1929"
-    full: "Lynd, Robert S., and Helen Merrell Lynd. *Middletown: A Study in American Culture* San Diego: Harcourt Brace Jovanovich, 1929; reprint, Harvest/HBJ, 1956."
-  - id: "Agee 1941"
-    full: "Agee, James, and Walker Evans. *Let Us Now Praise Famous Men: Three Tenant Families*. Boston: Houghton Mifflin, 1941."
-  - id: "Kirstein 1938"
-    full: "Kirstein, Lincoln. Photographs of America: Walker Evans *American Photographs*. New York: Museum of Modern Art, 1938"
-  - id: "West 1939"
-    full: "West, Anthony. Middletown and Main street. *Architectual Review* 85. 1939."
+  - id: "Beyea 1984"
+    full: "Beyea, Jan. *A Review of Dose Assessments at Three Mile Island and Recommendations for Future Research*. Philadelphia, PA: Three Mile Island Public Health Fund, 1984."
+    sort: "Beyea"
+  - id: "Butler 1959"
+    full: 'Butler, Richard H. "Liability Insurance for the Nuclear Energy Hazard." *Proceedings of the Casualty Actuarial Society* XLVI, 1959.'
+    sort: "Butler"
+  - id: "Daston 2017"
+    full: 'Daston, Lorraine. "What Is an Insurable Risk?: Swiss Re and Atomic Reactor Insurance." In *Managing Risk in Reinsurance: From City Fires to Global Warming*, pp. 230-247. Oxford University Press, 2016.' 
+    sort: "Daston"
+  - id: "Gotchy 1979"
+    full: "Gotchy, R. L., and R. J. Bores. *The Public Whole Body Counting Program Following the Three Mile Island Accident. Technical report, April-September 1979*. No. NUREG--0636. Nuclear Regulatory Commission, 1980."
+    sort: "Gotchy"
+  - id: "Gourley 1985"
+    full: 'Gourley, Donald, Chub Wilcox, and Joseph Marrone. "The Nuclear Liability Claims Experience of the Nuclear Insurance Pools: Report to American Nuclear Insurers and Mutual Atomic Energy Liability Underwriters." In *The Price-Anderson Law: Reports on Price-Anderson Issues*. American Nuclear Insurers and Mutual Atomic Energy Liability Underwriters, 1985.' 
+    sort: gourley
+  - id: "Hewlett 1989"
+    full: "Hewlett, Richard G., and Jack M. Holl. *Atoms for Peace and War, 1953-1961: Eisenhower and the Atomic Energy Commission*. Berkeley, CA: University of California Press, 1989." 
+    sort: "hewlett"
+  - id: IAEA
+    full: '"International Atomic Energy Agency Information Series." International Atomic Energy Agency. Division of Public Information, 08-26941/E. https://www.iaea.org/sites/default/files/ines.pdf.' 
+    sort: iaea
+  - id: "Krige 2006"
+    full: 'Krige, John. "Atoms for Peace, Scientific Internationalism, and Scientific Intelligence." *Osiris* 21, no. 1 (2006): 161--81. https://doi.org/10.1086/507140.' 
+    sort: Krige
+  - id: "Kumori 2019"
+    full: 'Kumori, Atsushi. "Think Tank Puts Cost to Address Nuke Disaster up to 81 Trillion Yen." *Asahi Shinbun*, March 19, 2019.' 
+    sort: "Kumori"
+  - id: "Lindee 2016"
+    full: 'Lindee, Susan. "Survivors and scientists: Hiroshima, Fukushima, and the Radiation Effects Research Foundation, 1975--2014." *Social Studies of Science* 46, no. 2 (2016): 184-209.' 
+    sort: "Lindee"
+  - id: "Mazuzan 1985"
+    full: "Mazuzan, George T., and J. Samuel Walker. *Controlling the Atom: The Beginnings of Nuclear Regulation, 1946-1962*. Berkeley, CA: University of California Press, 1985." 
+    sort: "Mazuzan"
+  - id: "McClure 1968"
+    full: "McClure, Richard D. \"A review of Nuclear Energy Insurance.\" In *Proceedings of the Casualty Actuarial Society* 55, pp. 255-94. 1968." 
+    sort: "McClure"
+  - id: "Mitchell forthcoming"
+    full: 'Mitchell, M. X. "The Cosmology of Evidence: Suffering, Science, and Biological Witness after Three Mile Island." *Journal of the History of Biology*, forthcoming.' 
+    sort: "Mitchell"
+  - id: "NRC 2018a"
+    full: 'Nuclear Regulatory Commission, "Backgrounder on the Three Mile Island Accident." June 21, 2018. https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html.' 
+    sort: NRC
+  - id: "NRC 2018b"
+    full: 'Nuclear Regulatory Commission, "Backgrounder on Nuclear Insurance and Disaster Relief." January 2018. https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/nuclear-insurance.html.' 
+    sort: "NRC"
+  - id: "Obayashi 2016"
+    full: 'Obayashi, Yuka, and Kentaro Hamada. "Japan Nearly Doubles Fukushima Disaster-Related Costs to \$188 Billion." *Reuters*, December 8, 2016.' 
+    sort: "Obayashi"
+  - id: "Osif 2004"
+    full: "Osif, Bonnie A., Anthony John Baratta, and Thomas W. Conkling. *TMI 25 Years Later: The Three Mile Island Nuclear Power Plant Accident and its Impact*. College Park: Penn State University Press, 2004." 
+    sort: "Osif"
+  - id: "Prial 1982"
+    full: 'Prial, Frank J. "Civil Trial on Blame for Accident at Three Mile Island Opens Today." *New York Times*, November 1, 1982.' 
+    sort: "Prial"
+  - id: "Reed 1989"
+    full: 'Reed, Susan, and Melissa Herman. "Ten Years Later, Nuclear Ghosts Still Haunt Three Mile Island." *People*, April 3, 1989.' 
+    sort: "Reed"
+  - id: "Rockett 1988"
+    full: "Rockett, Laurie R. *Financial Protections Against Nuclear Hazards*. New York: Columbia University Legislative Drafting Fund, 1988." 
+    sort: "Rockett"
+  - id: "Samson 1983"
+    full: 'Samson, Peter J. "General Public Utilities Corp. Thursday Agreed to Payout." *UPI News*, April 7, 1983.' 
+    sort: "Samson"
+  - id: "Smith 2013"
+    full: 'Smith, Tyson R. "The Price-Anderson Act and the Three Mile Island Accident." *Organization of Economic Cooperation and Development Conference on Nuclear Damages, Liability Issues, and Compensation Schemes*, 2013.' 
+    sort: "Smith"
+  - id: "Stason 1959"
+    full: "Stason, E. Blythe, Samuel D. Estep, and William J. Pierce. *Atoms and the Law*. Ann Arbor: University of Michigan Law School, 1959." 
+    sort: "Stason"
+  - id: "Thomas 1958"
+    full: 'Thomas, DeRoy C. "Can We Insure Against Liability from Nuclear Incidents?" *California Law Review* 46, no. 1 (1958): 14--21. https://doi.org/10.2307/3478395' 
+    sort: "Thomas"
+  - id: "Walker 1992"
+    full: "Walker, J. Samuel., and George T. Mazuzan. *Containing the Atom: Nuclear Regulation in a Changing Environment, 1963-1971*. Berkeley, CA: University of California Press, 1992." 
+    sort: "Walker"
+  - id: "Walker 2004"
+    full: "Walker, J. Samuel. *Three Mile Island: A Nuclear Crisis in Historical Perspective*. Berkeley, CA: University of California Press, 2004." 
+    sort: "Walker 1988"
+  - id: "Walsh 1988"
+    full: "Walsh, Edward J. *Democracy in the Shadows: Citizen Mobilization in the Wake of the Accident at Three Mile Island*. New York: Greenwood Press, 1988." 
+    sort: "Walsh"
+  - id: "Zaretsky 2018"
+    full: "Zaretsky, Natasha. *Radiation Nation: Three Mile Island and the Political Transformation of the 1970s*. New York: Columbia University Press, 2018." 
+    sort: "Zaretsky"
+#  - id: # Last_name YYYY
+#    full: # 
+#    sort: #
+#  - id: # Last_name YYYY
+#    full: # 
+#    sort: #
+#  - id: # Last_name YYYY
+#    full: # 
+#    sort: #
+#  - id: # Last_name YYYY
+#    full: # 
+#    sort: #
