@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: cover-cranes.jpg
+image: cover.jpg
 img_src: https://flic.kr/p/9r2sZz
 ---
 
@@ -43,7 +43,7 @@ This leads to the third goal of a conversation about nuclear disaster compensati
 
 In sum, we are calling for a dialogue that is **anticipatory**, **participatory**, and **transnational** to best enable wiser decisions about nuclear power and its many consequences. We invite your ideas about possible forums that can move the conversation forward.
 
-## Bibliography
+### Bibliography
 
 Chilvers, Jason, and Kearnes, Matthew. "Remaking Participation in Science and Democracy." *Science, Technology, & Human Values* 45, no. 3 (2020): 347-380.
 
