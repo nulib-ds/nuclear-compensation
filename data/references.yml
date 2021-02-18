@@ -1,4 +1,24 @@
 entries:
+  - id: "Chilvers 2020"
+    full: |
+      Chilvers, Jason, and Kearnes, Matthew. "Remaking Participation in Science and Democracy." *Science, Technology, & Human Values* 45, no. 3 (2020): 347-380.
+    sort: "Chilvers"
+  - id: "Downer 2011"
+    full: | 
+      Downer, John. "'737-Cabriolet': The Limits of Knowledge and the Sociology of Inevitable Failure." *American Journal of Sociology* 117, no. 3 (2011): 725-762.
+    sort: "Downer" 
+  - id: "Irwin 2006"
+    full: | 
+      Irwin, Alan. "The Politics of Talk: Coming to Terms with the 'New' Scientific Governance." *Social Studies of Science* 36, no. 2 (2006): 299-320.
+    sort: "Irwin"
+  - id: "Laurent 2011"
+    full: |
+      Laurent, Brice. "Technologies of Democracy: Experiments and Demonstrations." Science and Engineering Ethics 17, no. 4 (2011): 649-666.
+    sort: "Laurent"
+  - id: "Lezaun 2017"
+    full: |
+      Lezaun, Javier, Noortje Marres, and Manuel Tironi. "Experiments in Participation." In Ulrike Felt, Rayvon Fouché, Clark A. Miller, and Lauren Smith-Doerr (eds). *The Handbook of Science and Technology Studies*. 4th edition. Pp. 195-221. Cambridge, MA, MIT Press, 2017.
+    sort: "Lezaun"
   - id: "Beyea 1984"
     full: "Beyea, Jan. *A Review of Dose Assessments at Three Mile Island and Recommendations for Future Research*. Philadelphia, PA: Three Mile Island Public Health Fund, 1984."
     sort: "Beyea"

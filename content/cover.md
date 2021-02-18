@@ -43,18 +43,6 @@ This leads to the third goal of a conversation about nuclear disaster compensati
 
 In sum, we are calling for a dialogue that is **anticipatory**, **participatory**, and **transnational** to best enable wiser decisions about nuclear power and its many consequences. We invite your ideas about possible forums that can move the conversation forward.
 
-### Bibliography
+[^1]: See {{< q-cite "Downer 2011" >}}
 
-Chilvers, Jason, and Kearnes, Matthew. "Remaking Participation in Science and Democracy." *Science, Technology, & Human Values* 45, no. 3 (2020): 347-380.
-
-Downer, John. "'737-Cabriolet': The Limits of Knowledge and the Sociology of Inevitable Failure." *American Journal of Sociology* 117, no. 3 (2011): 725-762.
-
-Irwin, Alan. "The Politics of Talk: Coming to Terms with the 'New' Scientific Governance." *Social Studies of Science* 36, no. 2 (2006): 299-320.
-
-Laurent, Brice. "Technologies of Democracy: Experiments and Demonstrations." Science and Engineering Ethics 17, no. 4 (2011): 649-666.
-
-Lezaun, Javier, Noortje Marres, and Manuel Tironi. "Experiments in Participation." In Ulrike Felt, Rayvon Fouché, Clark A. Miller, and Lauren Smith-Doerr (eds). *The Handbook of Science and Technology Studies*. 4th edition. Pp. 195-221. Cambridge, MA, MIT Press, 2017.
-
-[^1]: See John Downer, "737-Cabriolet": The Limits of Knowledge and the Sociology of Inevitable Failure." *American Journal of Sociology* 117, no. 3 (2011): 725-762.
-
-[^2]: See, e.g., Jason Chilvers and Matthew Kearnes, "Remaking Participation in Science and Democracy," *Science, Technology, & Human Values* 45, no. 3 (2020): 347-380; Alan Irwin, "The Politics of Talk: Coming to Terms with the 'New' Scientific Governance," *Social Studies of Science* 36, no. 2 (2006), 299-320; Brice Laurent, "Technologies of Democracy: Experiments and Demonstrations." *Science and Engineering Ethics* 17, no. 4 (2011): 649-666; and Javier Lezaun, Noortje Marres, and Manuel Tironi, "Experiments in Participation," in *The Handbook of Science and Technology Studies*, 4th edition, ed. Ulrike Felt, Rayvon Fouché, Clark A. Miller, and Lauren Smith-Doerr (Cambridge, MA: MIT Press, 2017), 195-221.
+[^2]: See, e.g., {{< q-cite "Chilvers 2020" "347-380" >}}; {{< q-cite "Irwin 2006" "299-320" >}}; {{< q-cite "Laurent 2011" "649-666" >}}; and {{< q-cite "Lezaun 2017" "195-221" >}}
