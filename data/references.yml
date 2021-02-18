@@ -11,14 +11,102 @@ entries:
     full: | 
       Irwin, Alan. "The Politics of Talk: Coming to Terms with the 'New' Scientific Governance." *Social Studies of Science* 36, no. 2 (2006): 299-320.
     sort: "Irwin"
+  - id: "Alexievich 2013"
+    full: |
+      Alexievich, Svetlana. *Chernobyl Prayer: A Chronicle of the Future*. Translated by Anna Gunin and Arch Tait. New York: Penguin Books, 2013.
+    sort: "Alexievich"
+  - id: "Chunichi 2013"
+    full: |
+      Chunichi Shimbun Shakaibu. *Nichibei-domei to genpatsu: Kakusareta kaku no sensgoshi* / *The U.S.-Japan Alliance and Nuclear Power Plants: The Hidden History of Nuclear Energy in Postwar Japan*. Nagoya: Chunichi Shimbun, 2013.
+    sort: "Chunichi"
+  - id: "Endo 2013"
+    full: |
+      Endo, Noriko. *Genshiryoku songaibaisho sendo no kenkyu: Tokyo Denryoku Fukushima Genpatsu jiko kara no kosatsu* / *A Study of Nuclear Power Damage Compensation Schemes: Considerations from the Tokyo Electric Power Corporation Fukushima Power Plant Accident*. Tokyo: Iwanami-shoten, 2013.
+    sort:
+  - id: "Gill 2013"
+    full: |
+      Gill, Tom, Brigitte Steger, and David H. Slater, eds. *Japan Copes with Calamity: Ethnographies of the Earthquake, Tsunami and Nuclear Disasters of March 2011*. Oxford: Peter Lang, 2013.
+    sort: "Gill"
+  - id: "Green 2016"
+    full: |
+      Green, W. Nathan and Ian G. Baird. "Capitalizing on Compensation: Hydropower Resettlement and the Commodification and Decommodification of Nature-Society Relations in Southern Lao." *Annals of the American Association of Geographers* 106, no. 4 (2016): 853-873.
+    sort: "Green"
+  - id: "Hecht 2012"
+    full: |
+      Hecht, Gabrielle. *Being Nuclear: Africans and the Global Uranium Trade*. Cambridge, MA: MIT Press, 2012.
+    sort: "Hecht"
+  - id: "Koga 2013"
+    full: |
+      Koga, Yukiko. "Accounting for Silence: Inheritance, Debt, and the Moral Economy of Legal Redress in China and Japan." *American Ethnologist* 40, no. 3 (2013): 494--507.
+    sort: "Koga"
+  - id: "Kurokawa 2012"
+    full: |
+      Kurokawa, Kiyoshi, Katsuhiko Ishibashi, Kenzo Oshima, Hisako Sakiyama, Masafumi Sakurai, Koichi Tanaka, Mitsuhiko Tanaka, Shuya Nomura, Reiko Hachisuka, and Yoshinori Yokoyama. *The Official Report of the Fukushima Nuclear Accident Independent Investigation Commission*. The National Diet of Japan, 2012.
+    sort: "Kurokawa"
   - id: "Laurent 2011"
     full: |
       Laurent, Brice. "Technologies of Democracy: Experiments and Demonstrations." Science and Engineering Ethics 17, no. 4 (2011): 649-666.
     sort: "Laurent"
+  - id: "Lerner 2014"
+    full: |
+      Lerner, Ken, and Edward Tanzman. "Making Victims Whole: Compensation of Nuclear Incident Victims in Japan and the United States." *Legislation and Public Policy* 17 (2014): 543--94.
+    sort: "Lerner"
   - id: "Lezaun 2017"
     full: |
       Lezaun, Javier, Noortje Marres, and Manuel Tironi. "Experiments in Participation." In Ulrike Felt, Rayvon Fouché, Clark A. Miller, and Lauren Smith-Doerr (eds). *The Handbook of Science and Technology Studies*. 4th edition. Pp. 195-221. Cambridge, MA, MIT Press, 2017.
     sort: "Lezaun"
+  - id: "WNA 2018"
+    full: |
+      "Liability for Nuclear Damage." World Nuclear Association, 2018. http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/liability-for-nuclear-damage.aspx.
+    sort: "Liability"
+  - id: "Lochbaum 2014"
+    full: |
+      Lochbaum, David, Edwin Lyman, Susan Q. Stranahan and the Union of Concerned Scientists. *Fukushima: The Story of a Nuclear Disas*ter. New York: New Press, 2014.
+    sort: "Lochhaum"
+  - id: "Mayer 2015"
+    full: |
+      Mayer, Brian, Katrina Running, and Kelly Bergstrand. "Compensation and Community Corrosion: Perceived Inequalities, Social Comparisons, and Competition Following the 'Deepwater Horizon' Oil Spill." *Sociological Forum* 30, no. 2 (2015): 369-390.
+    sort: "Mayer"
+  - id: "Miller 2011"
+    full: |
+      Miller, Charles, Amy Cubbage, Daniel Dorman, Jack Grobe, Gary Holahan, and Nathan Sanfilippo. *Recommendations for Enhancing Reactor Safety in the 21st Century: The Near-Term Task Force Review of Insights from the Fukushima Dai-ichi Accident*. Nuclear Regulatory Commission, 2011.
+    sort: "Miller"
+  - id: "Miyazaki 2004"
+    full: |
+      Miyazaki, Hirokazu. *The Method of Hope: Anthropology, Philosophy, and Fijian Knowledge.* Stanford, CA: Stanford University Press, 2004.
+    sort: "Miyazaki"
+  - id: "Miyazaki 2014"
+    full: |
+      Miyazaki, Hirokazu. "Saving TEPCO: Debt, Credit and the 'End' of Finance in Post-Fukushima Japan." In *Corporations and Citizenship*, edited by Greg Urban, 127--40. Philadelphia: University of Pennsylvania Press, 2014.
+    sort: "Miyazaki"
+  - id: "Morita 2013"
+    full: |
+      Morita, Atsuro, and Shuhei Kimura. "Environmental Infrastructures of Emergency: The Formation of a Civic Radiation Monitoring Map during the Fukushima Disaster." In *Nuclear Disaster at Fukushima Daiichi: Social, Political and Environmental Issues*, edited by Richard Hindmarsh, 78--96. New York: Routledge, 2013.
+    sort: "Morita"
+  - id: "Oshima 2011"
+    full: |
+      Oshima, Kenji. *Genpatsu no kosuto: Enerugi tenkan eno shiten \ The Costs of Nuclear Energy: A Perspective on Energy Shift*. Tokyo: Iwanami-shoten, 2011.
+    sort: "Oshima"
+  - id: "Penney 2012"
+    full: |
+      Penney, Matthew. "Nuclear Nationalism and Fukushima." *The Asia-Pacific Journal* 10, no. 11 (March 5, 2012): 1--23.
+    sort: "Penney"
+  - id: "Perrow 1990"
+    full: |
+      Perrow, Charles. *Normal Accidents: Living with High-Risk Technologies.* Princeton: Princeton University Press, 1990 [1984].
+    sort: "Perrow"
+  - id: "Petryna 2002"
+    full: |
+      Petryna, Adriana. *Life Exposed: Biological Citizens after Chernobyl.* Princeton: Princeton University Press, 2002.
+    sort: "Petryna"
+  - id: "Riles 2013"
+    full: |
+      Riles, Annelise. "Market Collaboration: Finance, Culture, and Ethnography after Neoliberalism." *American Anthropologist* 115, no. 4 (2013): 555--69.
+    sort: "Riles"
+  - id: "Samuels 2013"
+    full: |
+      Samuels, Richard J. *3.11: Disaster and Change in Japan*. Ithaca, NY: Cornell University Press, 2013.
+    sort: "Samuels"
   - id: "Beyea 1984"
     full: "Beyea, Jan. *A Review of Dose Assessments at Three Mile Island and Recommendations for Future Research*. Philadelphia, PA: Three Mile Island Public Health Fund, 1984."
     sort: "Beyea"
@@ -43,9 +131,6 @@ entries:
   - id: "Krige 2006"
     full: 'Krige, John. "Atoms for Peace, Scientific Internationalism, and Scientific Intelligence." *Osiris* 21, no. 1 (2006): 161--81. https://doi.org/10.1086/507140.' 
     sort: Krige
-  - id: "Kumori 2019"
-    full: 'Kumori, Atsushi. "Think Tank Puts Cost to Address Nuke Disaster up to 81 Trillion Yen." *Asahi Shinbun*, March 19, 2019.' 
-    sort: "Kumori"
   - id: "Lindee 2016"
     full: 'Lindee, Susan. "Survivors and scientists: Hiroshima, Fukushima, and the Radiation Effects Research Foundation, 1975--2014." *Social Studies of Science* 46, no. 2 (2016): 184-209.' 
     sort: "Lindee"
@@ -138,7 +223,7 @@ entries:
     sort: "Kornienko"
   - id: "Kozheurov 2014"
     full: | 
-      Kozheurov, Ya. C. "From Hiroshima to Fukushima: International Legal Aspects of the State's Practice of Compensation for Nuclear Damage.\" *Russian Juridical Journal / Rossiiskii iuridicheskii zhurnal* 97, 5 (2014): 89-109.
+      Kozheurov, Ya. C. "From Hiroshima to Fukushima: International Legal Aspects of the State's Practice of Compensation for Nuclear Damage." *Russian Juridical Journal / Rossiiskii iuridicheskii zhurnal* 97, 5 (2014): 89-109.
     sort: "Kozheurov"
   - id: "Kuchinskaya 2014"
     full: "Kuchinskaya, Olga. *The Politics of Invisibility: Public Knowledge about Radiation Health Effects after Chernobyl*. Cambridge, MA: MIT Press, 2014."
@@ -185,7 +270,7 @@ entries:
     sort: "Dōgauchi"
   - id: "Feldman 2015"
     full: |
-      Feldman, Eric A. "Compensating the Victims of Japan\'s 3-11 Fukushima Disaster." *Asian-Pacific Law & Policy, Journal* 16 (2015): 127-158.
+      Feldman, Eric A. "Compensating the Victims of Japan's 3-11 Fukushima Disaster." *Asian-Pacific Law & Policy, Journal* 16 (2015): 127-158.
     sort: "Feldman"
   - id: "Heffron 2016"
     full: |

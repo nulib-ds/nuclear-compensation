@@ -143,135 +143,73 @@ At the minimum, this report calls for the establishment of an inclusive and ongo
 
 Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a catastrophe of time. The radionuclides strewn across our earth will live for 50,000, 100,000, 200,000 years. And longer. From the perspective of human life, they are eternal."[^57] She defines her book, a collage of stories about Chernobyl, as a chronicle of the future: "What lingers most in my memory of Chernobyl is life afterwards: the possessions without owners, the landscapes without people. The roads going nowhere, the cables leading nowhere. You find yourself wondering just what this is: the past or the future. It sometimes felt to me as if I was recording the future."[^58] What this report offers is nothing short of a glimpse of the ongoing struggles to keep this futurity in view while seeking a better way to prepare ourselves for and manage a future crisis. The lessons from Fukushima lie precisely in these struggles.
 
-### Bibliography
+[^1]: {{< q-cite "Miller 2011" "vii" >}}
 
-Alexievich, Svetlana. *Chernobyl Prayer: A Chronicle of the Future*. Translated by Anna Gunin and Arch Tait. New York: Penguin Books, 2013.
+[^2]: {{< q-cite "Kurokawa 2012" "9" >}}
 
-Chilvers, Jason, and Kearnes, Matthew. "Remaking Participation in Science and Democracy." *Science, Technology, & Human Values* 45, no. 3 (2020): 347-380.
+[^3]: See {{< q-cite "Samuels 2013" "200" >}}
 
-Chunichi Shimbun Shakaibu. *Nichibei-domei to genpatsu: Kakusareta kaku no sensgoshi* *\[The U.S.-Japan Alliance and Nuclear Power Plants: The Hidden History of Nuclear Energy in Postwar Japan\]*. Nagoya: Chunichi Shimbun, 2013.
+[^4]: {{< q-cite "Perrow 1990" "5" >}}
 
-Endo, Noriko. *Genshiryoku songaibaisho sendo no kenkyu: Tokyo Denryoku Fukushima Genpatsu jiko kara no kosatsu* \[*A Study of Nuclear Power Damage Compensation Schemes: Considerations from the Tokyo Electric Power Corporation Fukushima Power Plant Accident*\]. Tokyo: Iwanami-shoten, 2013.
+[^5]: {{< q-cite "Lochbaum 2014" "247" >}}
 
-Gill, Tom, Brigitte Steger, and David H. Slater, eds. *Japan Copes with Calamity: Ethnographies of the Earthquake, Tsunami and Nuclear Disasters of March 2011*. Oxford: Peter Lang, 2013.
+[^6]: See, e.g., {{< q-cite "Green 2016" >}}; and {{< q-cite "Mayer 2015" "369-390" >}} for in-depth analyses of compensation issues related to relocation for the construction of a hydropower dam in Laos and the "Deepwater Horizon" oil spill case.
 
-Green, W. Nathan and Ian G. Baird. "Capitalizing on Compensation: Hydropower Resettlement and the Commodification and Decommodification of Nature-Society Relations in Southern Lao." *Annals of the American Association of Geographers* 106, no. 4 (2016): 853-873.
-
-Hecht, Gabrielle. *Being Nuclear: Africans and the Global Uranium Trade*. Cambridge, MA: MIT Press, 2012.
-
-Irwin, Alan. "The Politics of Talk: Coming to Terms with the 'New' Scientific Governance." *Social Studies of Science* 36, no. 2 (2006): 299-320.
-
-Koga, Yukiko. "Accounting for Silence: Inheritance, Debt, and the Moral Economy of Legal Redress in China and Japan." *American Ethnologist* 40, no. 3 (2013): 494--507.
-
-Kurokawa, Kiyoshi, Katsuhiko Ishibashi, Kenzo Oshima, Hisako Sakiyama, Masafumi Sakurai, Koichi Tanaka, Mitsuhiko Tanaka, Shuya Nomura, Reiko Hachisuka, and Yoshinori Yokoyama. *The Official Report of the Fukushima Nuclear Accident Independent Investigation Commission*. The National Diet of Japan, 2012.
-
-Laurent, Brice. "Technologies of Democracy: Experiments and Demonstrations." Science and Engineering Ethics 17, no. 4 (2011): 649-666.
-
-Lerner, Ken, and Edward Tanzman. "Making Victims Whole: Compensation of Nuclear Incident Victims in Japan and the United States." *Legislation and Public Policy* 17 (2014): 543--94.
-
-Lezaun, Javier, Noortje Marres, and Manuel Tironi. "Experiments in Participation." In Ulrike Felt, Rayvon Fouché, Clark A. Miller, and Lauren Smith-Doerr (eds). *The Handbook of Science and Technology Studies*. 4th edition. Pp. 195-221. Cambridge, MA, MIT Press, 2017.
-
-"Liability for Nuclear Damage." World Nuclear Association, 2018. http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/liability-for-nuclear-damage.aspx.
-
-Lochhaum, David, Edwin Lyman, Susan Q. Stranahan and the Union of Concerned Scientists. *Fukushima: The Story of a Nuclear Disas*ter. New York: New Press, 2014.
-
-Mayer, Brian, Katrina Running, and Kelly Bergstrand. "Compensation and Community Corrosion: Perceived Inequalities, Social Comparisons, and Competition Following the 'Deepwater Horizon' Oil Spill." *Sociological Forum* 30, no. 2 (2015): 369-390.
-
-Miller, Charles, Amy Cubbage, Daniel Dorman, Jack Grobe, Gary Holahan, and Nathan Sanfilippo. *Recommendations for Enhancing Reactor Safety in the 21st Century: The Near-Term Task Force Review of Insights from the Fukushima Dai-ichi Accident*. Nuclear Regulatory Commission, 2011.
-
-Miyazaki, Hirokazu. *The Method of Hope: Anthropology, Philosophy, and Fijian Knowledge.* Stanford, CA: Stanford University Press, 2004.
-
-Miyazaki, Hirokazu. "Saving TEPCO: Debt, Credit and the 'End' of Finance in Post-Fukushima Japan." In *Corporations and Citizenship*, edited by Greg Urban, 127--40. Philadelphia: University of Pennsylvania Press, 2014.
-
-Morita, Atsuro, and Shuhei Kimura. "Environmental Infrastructures of Emergency: The Formation of a Civic Radiation Monitoring Map during the Fukushima Disaster." In *Nuclear Disaster at Fukushima Daiichi: Social, Political and Environmental Issues*, edited by Richard Hindmarsh, 78--96. New York: Routledge, 2013.
-
-Oshima, Kenji. *Genpatsu no kosuto: Enerugi tenkan eno shiten* \[*The Costs of Nuclear*
-
-*Energy: A Perspective on Energy Shift*\]. Tokyo: Iwanami-shoten, 2011.
-
-Penney, Matthew. "Nuclear Nationalism and Fukushima." *The Asia-Pacific Journal* 10, no. 11 (March 5, 2012): 1--23.
-
-Perrow, Charles. *Normal Accidents: Living with High-Risk Technologies.* Princeton: Princeton University Press, 1990 \[1984\].
-
-Petryna, Adriana. *Life Exposed: Biological Citizens after Chernobyl.* Princeton: Princeton University Press, 2002.
-
-Riles, Annelise. "Market Collaboration: Finance, Culture, and Ethnography after Neoliberalism." *American Anthropologist* 115, no. 4 (2013): 555--69.
-
-Samuels, Richard J. *3.11: Disaster and Change in Japan*. Ithaca, NY: Cornell University Press, 2013.
-
-Schmid, Sonja D. *Producing Power: The Pre-Chernobyl History of the Soviet Nuclear Industry*. Cambridge, MA: MIT Press, 2015.
-
-[^1]: Charles Miller, et. al., *Recommendations for Enhancing Reactor Safety in the 21st Century: The Near-Term Task Force Review of Insights from the Fukushima Dai-ichi Accident* (Nuclear Regulatory Commission. 2011), vii.
-
-[^2]: Kiyoshi Kurokawa et. al., *The Official Report of the Fukushima Nuclear Accident Independent Investigation Commission* (The National Diet of Japan, 2012), 9.
-
-[^3]: See Richard J Samuels, *3.11: Disaster and Change in Japan* (Ithaca, NY: Cornell University Press, 2013), 200.
-
-[^4]: Charles Perrow, *Normal Accidents: Living with High-Risk Technologies* (Princeton: Princeton University Press, 1990 \[1984\]), 5.
-
-[^5]: David Lochbaum et al., *Fukushima: The Story of a Nuclear Disaster* (New York: New Press, 2014), 247.
-
-[^6]: See, e.g., W. Nathan Green and Ian G. Baird, "Capitalizing on Compensation: Hydropower Resettlement and the Commodification and Decommodification of Nature-Society Relations in Southern Lao," *Annals of the American Association of Geographers* 106, no. (2016): 853-873; and Brian Mayer, Katrina Running, and Kelly Bergstrand, "Compensation and Community Corrosion: Perceived Inequalities, Social Comparisons, and Competition Following the 'Deepwater Horizon' Oil Spill," *Sociological Forum* 30, no. 2 (2015): 369-390.
-
-    for in-depth analyses of compensation issues related to relocation for the construction of a hydropower dam in Laos and the "Deepwater Horizon" oil spill case.
-
-[^7]: Atsuro Morita and Shuhei Kimura, "Environmental Infrastructures of Emergency: The Formation of a Civic Radiation Monitoring Map during the Fukushima Disaster," in *Nuclear Disaster at Fukushima Daiichi: Social, Political and Environmental Issues*, ed. Richard Hindmarsh (New York: Routledge, 2013), 94. See also Tom Gill, Brigitte Steger, and David H. Slater, eds., *Japan Copes with Calamity: Ethnographies of the Earthquake, Tsunami and Nuclear Disasters of March 2011* (Oxford: Peter Lang, 2013).
+[^7]: {{< q-cite "Morita 2013" "94" >}} See also {{< q-cite "Gill 2013" "94" >}}
 
 [^8]: Tokyo Electric Power Company, "Records of Applications and Payouts for Compensation of Nuclear Damage," February 5, 2021, https://www.tepco.co.jp/en/hd/responsibility/revitalization/pdf/comp_result-e.pdf.
 
-[^9]: Nihon Bengoshi Rengokai (Japan Federation of Bar Associations), "Bengoshi hakusho 2019-nen ban" (Attorney white paper 2019), pp. 140-141,
+[^9]: Nihon Bengoshi Rengokai (Japan Federation of Bar Associations), "[Bengoshi hakusho 2019-nen ban](https://www.nichibenren.or.jp/library/pdf/document/statistics/2019/3-6-4_2019.pdf)" (Attorney white paper 2019), pp. 140-141,
 
-    <https://www.nichibenren.or.jp/library/pdf/document/statistics/2019/3-6-4_2019.pdf>.
-
-[^10]: See, for example, Svetlana Alexievich, *Chernobyl Prayer: A Chronicle of the Future*, trans. Anna Gunin and Arch Tait (London: Penguin Books, 2016); Mitchell, this volume; Adriana Petryna, *Life Exposed: Biological Citizens after Chernobyl* (Princeton, NJ: Princeton University Press, 2013).
+[^10]: See, for example, {{< q-cite "Alexievich 2013" >}}
 
 [^11]: See also Mitchell, Riles, and Yokomizo, this volume.
 
-[^12]: Noriko Endo, *Genshiryoku songaibaisho sendo no kenkyu: Tokyo Denryoku Fukushima Genpatsu jiko kara no kosatsu* \[*A Study of Nuclear Power Damage Compensation Schemes: Considerations from the Tokyo Electric Power Corporation Fukushima Power Plant Accident*\] (Tokyo: Iwanami-shoten, 2013), 25; Mitchell, this volume.
+[^12]: {{< q-cite "Endo 2013" "25" >}}
 
-[^13]: Endo, *Genshiryoku songaibaisho*, 25-26, 57-81; Mitchell, this volume; and Mitchell, Riles, and Yokomizo, this volume.
+[^13]: {{< q-cite "Endo 2013" "25-26, 57-81" >}}; Mitchell, this volume; and Mitchell, Riles, and Yokomizo, this volume.
 
 [^14]: Mitchell, this volume; Mitchell, Riles, and Yokomizo, this volume.
 
-[^15]: "Liability for Nuclear Damage," World Nuclear Association, 2018. http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/liability-for-nuclear-damage.aspx.
+[^15]: {{< q-cite "WNA 2018" >}}
 
-[^16]: Ken Lerner and Edward Tanzman, "Making Victims Whole: Compensation of Nuclear Incident Victims in Japan and the United States," *Legislation and Public Policy* 17 (2014): 591.
+[^16]: {{< q-cite "Lerner 2014" "591" >}}
 
-[^17]: Ken Lerner and Edward Tanzman, "Making Victims Whole," 593.
+[^17]: {{< q-cite "Lerner 2014" "593" >}}
 
-[^18]: Ken Lerner and Edward Tanzman, "Making Victims Whole," 594.
+[^18]: {{< q-cite "Lerner 2014" "594" >}}
 
 [^19]: See Mitchell, this volume.
 
-[^20]: Endo, *Genshiryoku songaibaisho*, 47-48.
+[^20]: {{< q-cite "Endo 2013" "47-48" >}}
 
-[^21]: Endo, *Genshiryoku songaibaisho*, 44.
+[^21]: {{< q-cite "Endo 2013" "44" >}}
 
 [^22]: *Act on Nuclear Damage Compensation*, Act No. 147, Section 16, 1961.
 
-[^23]: Endo, *Genshiryoku songaibaisho*, 40.
+[^23]: {{< q-cite "Endo 2013" "40" >}}
 
-[^24]: Endo, *Genshiryoku songaibaisho*, 27.
+[^24]: {{< q-cite "Endo 2013" "27" >}}
 
 [^25]: *Act on Nuclear Damage Compensation*, Act No. 147, Section 3, 1961; Endo, *Genshiryoku songaibaisho*, 153-162.
 
-[^26]: Endo, *Genshiryoku songaibaisho*, 160.
+[^26]: {{< q-cite "Endo 2013" "160" >}}
 
-[^27]: See, for example, Hirokazu Miyazaki, "Saving TEPCO: Debt, Credit and the 'End' of Finance in Post-Fukushima Japan," in *Corporations and Citizenship*, ed. Greg Urban (Philadelphia: University of Pennsylvania Press, 2014), 127-140.
+[^27]: See, for example, {{< q-cite "Miyazaki 2014" "127-140" >}}
 
-[^28]: See, for example, Annelise Riles, "Market Collaboration: Finance, Culture, and Ethnography after Neoliberalism," *American Anthropologist* 115, no. 4 (2013): 555-569.
+[^28]: See, for example,{{< q-cite "Riles 2013" "555-569" >}}
 
-[^29]: Endo, *Genshiryoku songaibaisho*, 227-28.
+[^29]: {{< q-cite "Endo 2013" "227-28" >}}
 
 [^30]: See Mitchell, Riles, and Yokomizo, this volume.
 
 [^31]: Chunichi Shimbun Shakaibu, *Nichibei-domei to genpatsu: Kakusareta kaku no sensgoshi* (*The US-Japan Alliance and Nuclear Power Plants: The Hidden History of Nuclear Energy in Postwar Japan*) (Nagoya: Chunichi Shimbun, 2013); Matthew Penney, "Nuclear Nationalism and Fukushima," *The Asia-Pacific Journal* 10, no. 11 (March 5, 2012): 1-23.
 
-[^32]: Endo, *Genshiryoku songaibaisho*, 34.
+[^32]: {{< q-cite "Endo 2013" "34" >}} 
 
-[^33]: See also Kenji Oshima, *Genpatsu no kosuto: Enerugi ankan eno shiten* \[*The Costs of Nuclear Energy: A Perspective on Energy Shift*\] (Tokyo: Iwanami-shoten, 2011).
+[^33]: See also {{< q-cite "Oshima 2011" >}}
 
-[^34]: See also Gabrielle Hecht, *Being Nuclear: Africans and the Global Uranium Trade* (Cambridge, MA: MIT Press, 2012).
+[^34]: See also {{< q-cite "Hecht 2012" >}}
 
 [^35]: See Ashina, this volume.
 
@@ -305,18 +243,18 @@ Schmid, Sonja D. *Producing Power: The Pre-Chernobyl History of the Soviet Nucle
 
 [^50]: Schmid, this volume.
 
-[^51]: Adriana Petryna, *Life Exposed: Biological Citizens after Chernobyl* (Princeton: Princeton University Press, 2002).
+[^51]: {{< q-cite "Petryna 2002" >}}
 
-[^52]: Endo, *Genshiryoku songaibaisho*, 105-108.
+[^52]: {{< q-cite "Endo 2013" "105-108" >}}
 
 [^53]: Mitchell, Riles, and Yokomizo, this volume.
 
 [^54]: Mitchell, Riles, and Yokomizo, this volume.
 
-[^55]: Yukiko Koga, "Accounting for Silence: Inheritance, Debt, and the Moral Economy of Legal Redress in China and Japan," *American Ethnologist* 40, no. 3 (2013): 503.
+[^55]: {{< q-cite "Koga 2013" "503" >}}
 
-[^56]: Hirokazu Miyazaki, *The Method of Hope: Anthropology, Philosophy, and Fijian Knowledge* (Stanford, CA: Stanford University Press, 2004).
+[^56]: {{< q-cite "Miyazaki 2004" >}}
 
-[^57]: Svetlana Alexievich, *Chernobyl Prayer: A Chronicle of the Future*, translated by Anna Gunin and Arch Tait (New York: Penguin Books, 2013), 24.
+[^57]: {{< q-cite "Alexievich 2013" "24" >}} 
 
-[^58]: Alexievich, *Chernobyl Prayer*, 33.
+[^58]: {{< q-cite "Alexievich 2013" "33" >}} 
