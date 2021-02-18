@@ -83,15 +83,67 @@ entries:
   - id: "Zaretsky 2018"
     full: "Zaretsky, Natasha. *Radiation Nation: Three Mile Island and the Political Transformation of the 1970s*. New York: Columbia University Press, 2018." 
     sort: "Zaretsky"
-#  - id: # Last_name YYYY
-#    full: # 
-#    sort: #
-#  - id: # Last_name YYYY
-#    full: # 
-#    sort: #
-#  - id: # Last_name YYYY
-#    full: # 
-#    sort: #
-#  - id: # Last_name YYYY
-#    full: # 
-#    sort: #
+  - id: "Anisimov 2016"
+    full: 'Anisimov, Aleksey Pavlovich, and Anatoliy Jakovlevich Ryzhenkov. "Thirty Years after the Accident at the Chernobyl Nuclear Power Plant: Historical Causes, Lessons and Legal Effects." *Journal of Energy & Natural Resources Law* 34, no. 3 (2016): 265--83. https://doi.org/10.1080/02646811.2016.1162047'
+    sort: "Anisimov"
+  - id: "Brown 2013"
+    full: "Brown, Kate. *Plutopia Nuclear Families, Atomic Cities, and the Great Soviet and American Plutonium Disasters*. Oxford: Oxford University Press, 2013."
+    sort: "Brown"
+  - id: "Bychkova 1999"
+    full: 'Bychkova, K. F. "Characteristic Features of the Legal Relations Concerning Compensation for Injuries Caused by the Chernobyl Accident." *Atomic Energy* 87, no. 1 (July 1999): 526--28. https://doi.org/10.1007/bf02673213.'
+    sort: "Bychkova"
+  - id: "Gerasimova 2002"
+    full: 'Gerasimova, N.V. "Results and Tasks of the Implementation of Federal Target Programs Aimed at Overcoming the Consequences of Radiation Accidents and Catastrophes in the Russian Federation." In *Proceedings of the Conference RADLEG 2000: International Conference on Radiation Legacy of the 20th Century: Environmental Restoration*. AEA-TECDOC-1280, Vienna: IAEA, 2002.'
+    sort: "Gerasimova"
+  - id: "Ioirysh 1969"
+    full: "Ioirysh, Abram I. *Atom i pravo The Atom and the Law*. Moscow: Mezhdunarodnye otnosheniia, 1969."
+    sort: "Ioirysh" 
+  - id: "Ioirysh 1975"
+    full: "Ioirysh, Abram I. *Atomnaia energiia: pravovye problemy Nuclear Energy: Legal Problems*. Moscow: Nauka, 1975."
+    sort: "Ioirysh"
+  - id: "Ioirysh 1979"
+    full: "Ioirysh, Abram I. *Pravovye problemy mirnogo ispol'zovaniia atomnoi energii *Legal Problems of the Peaceful Use of Nuclear Energy*. Moscow: Znanie, 1979."
+    sort: "Ioirysh"
+  - id: "Ioirysh 1986"
+    full: "Ioirysh, Abram I., Petr N. Burgasov, and Andranik M. Petros'iants, eds., *Sovetskoe atomnoe pravo Soviet Nuclear Law*. Moscow: Nauka, 1986."
+    sort: "Ioirysh"
+  - id: "Ioirysh 1987"
+    full: "Ioirysh, Abram I., Vladimir F. Petrovskii, and Andranik M. Petros'iants, eds., *Mezhdunarodnoe atomnoe pravo International Nuclear Law.* Moscow: Nauka, 1987."
+    sort: "Ioirysh"
+  - id: "Khlestova 2015"
+    full: 'Khlestova, Irina O. "International Legal Regulation of Nuclear Liability / Mezhdunarodno-pravovoe regulirovanie otvetstvennosti za iadernyi ushcherb." *Zhurnal rossiiskogo prava* 1 (2015): 127-139.'
+    sort: "Khlestova"
+  - id: "Kornienko 2017"
+    full: "Kornienko, V. T., E. A. Bragina. *Osnovy iadernogo prava Rossii. *Uchebno-metodicheskoeposobie (Fundamentals of Nuclear Law in Russia).* Volgodonsk: Lambert Academic Publishing, 2017."
+    sort: "Kornienko"
+  - id: "Kozheurov 2014"
+    full: | 
+      Kozheurov, Ya. C. "From Hiroshima to Fukushima: International Legal Aspects of the State's Practice of Compensation for Nuclear Damage.\" *Russian Juridical Journal / Rossiiskii iuridicheskii zhurnal* 97, 5 (2014): 89-109.
+    sort: "Kozheurov"
+  - id: "Kuchinskaya 2014"
+    full: "Kuchinskaya, Olga. *The Politics of Invisibility: Public Knowledge about Radiation Health Effects after Chernobyl*. Cambridge, MA: MIT Press, 2014."
+    sort: "Kuchinskaya"
+  - id: "Lebedeva 2014"
+    full: | 
+      Lebedeva, Iuliia V. "O Proekte Federal'Nogo Zakona Rossiiskoi Federatsii 'O Grazhdansko- Pravovoi Otvetstvennosti Za Prichinenie Iadernogo Vreda i Ee Finansovom Obespechenii.'" Atomnaia energiia, April 29, 2014. http://www.atomic-energy.ru/articles/2014/04/21/48320
+    sort: "Lebedeva"
+  - id: "Petryna 2013"
+    full: "Petryna, Adriana. *Life Exposed: Biological Citizens after Chernobyl*. Princeton, NJ: Princeton University Press, 2013."
+    sort: "Petryna"
+  - id: "Schmid 2015"
+    full: "Schmid, Sonja D. *Producing Power: the Pre-Chernobyl History of the Soviet Nuclear Industry*. Cambridge, MA: MIT Press, 2015."
+    sort: "Schmid" 
+  - id: "Stoiber 2010"
+    full: "Stoiber, Carlton, Abdelmadjid Cherf, Wolfarm Tonhauser, and Maria de Lourdes Vez Carmona. *Handbook on Nuclear Law: Implementing Legislation*. Vienna: International Atomic Energy Agency, 2010."
+    sort: "Stoiber"
+  - id: "Yaroshinskaya 1998"
+    full: |
+      Yaroshinskaya, Alla. "Problems of Social Assistance to the Chernobyl Sufferers in Russia." In *Research Activities about the Radiological Consequences of the Chernobyl NPS Accident and Social Activities to Assist the Sufferers by the Accident*, edited by T. Imanaka, 257--65. Kyoto, Japan: Kyoto University Research Reactor Institute, KUR-KR-2, 1998.
+    sort: "Yaroshinskaya"
+  - id: "Yaroshinskaya 1996"
+    full: "Yaroshinskaya, Alla, ed. *Iadernaia entsiklopediia.* Moscow: Blagotvoritel'nyi fond Yaroshinskoi, 1996."
+    sort: "Yaroshinskaya"
+  - id: "Zgersky 1998"
+    full: |
+      Zgersky, Milan. "Legal Regime of the Chernobyl Problems in the USSR, Belarus, Russia and the Ukraine." In *Research Activities about the Radiological Consequences of the Chernobyl NPS Accident and Social Activities to Assist the Sufferers by the Accident*, edited by T. Imanaka, 266-270. Kyoto, Japan: Kyoto University Research Reactor Institute, KUR-KR-21 1998.
+    sort: "Zgersky"
