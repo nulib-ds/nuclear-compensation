@@ -16,7 +16,9 @@ _Nuclear Compensation: Lessons from Fukushima_ was published by [Northwestern Un
 
 ### Website Images
 
-- Cover: "Modified for size [Peace Cranes on the GPO steps - Melbourne Vigil for Japan](https://www.flickr.com/photos/sandocap/5605798325/)" by [John Englart](https://www.flickr.com/photos/takver/) licensed under the [Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) license](https://creativecommons.org/licenses/by-sa/2.0/).
+- Cover: "Nuclear Power, the Energy for a Bright Future" by Toshihiko Watanabe, courtesy of Toshihiko Watanabe. Photo of a large sign in the Town of Futaba, Fukushima stating “Nuclear Power, the Energy for a Bright Future.”
+
+- Introduction: [IAEA Experts at Fukushima](https://flic.kr/p/ec5jXh) by [IAEA](https://www.flickr.com/photos/iaea_imagebank/), licensed under the [Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/). 
 
 - Chapter One: [Fukushima Daiichi Nuclear Power Station (02110041)](https://flic.kr/p/qcinzK) by [IAEA ImagebankFollow](https://www.flickr.com/photos/iaea_imagebank/), licensed under the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0). 
 
