@@ -4,7 +4,7 @@ subtitle: Nuclear Compensation
 weight: 3
 type: page
 class: page-one
-#image: figures/lange-house.jpg
+image: iaea_fukushima.jpg
 contributors:
     - id: hmiyazaki
 ---
