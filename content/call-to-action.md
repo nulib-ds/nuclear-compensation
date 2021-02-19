@@ -1,14 +1,9 @@
 ---
-title: Cover
-weight: 1
-menu: false
-type: cover
-slug: .
-image: cover.jpg
-img_src: https://flic.kr/p/9r2sZz
+title: Nuclear Disaster Compensation
+subtitle: A Call for Action
+online: false
+weight: 3
 ---
-
-## Nuclear Disaster Compensation: A Call for Action
 
 Nuclear energy provides 10% of electricity world-wide, a percentage that is likely to increase as nation-states work to fuel growing economies while limiting the devastating environmental effects of carbon-based energy sources. Yet, on the tenth anniversary of Japan's devastating triple disaster, we are reminded that nuclear energy imposes unique risks and burdens on citizens. Between 1979 and 2011, three reactor meltdowns, with distinct causes and effects, have forced communities to deal with the insidious consequences of radiological contamination. Radionuclides, in contrast to many other by-products of energy production, require the interventions of experts to sense and assess their danger. They cannot be readily smelled, tasted, heard, seen, or felt. The pathways of exposure, moreover, are multiple and include full body exposure, inhalation, and consumption of contaminated food sources. Many of these radionuclides linger in environments for decades, centuries, and even millennia in some cases. These features of radiological harm place people affected by radioactive fallout in a difficult position. They must rely on experts to regulate the risks of a disaster and, afterward, to assess its effects and provide a means of redressing their injuries. Across three major disasters---Three Mile Island in 1979, Chernobyl in 1986, and Fukushima in 2011---those affected by nuclear reactor meltdowns have been forced to navigate complicated administrative and legal compensation regimes in an attempt to rebuild their lives and communities. Tax-payers and power companies' rate-payers, meanwhile, have borne many of the financial burdens of these disasters. When a major nuclear disaster occurs, its effects reach deeply into economy and society, and more often than not these effects extend to people far away from the accident's geographic location.
 

@@ -1,6 +1,8 @@
 ---
 title: About
 weight: 303
+toc: false
+pdf: false
 ---
 
 _Nuclear Compensation: Lessons from Fukushima_ was published by [Northwestern University Libraries](https://www.library.northwestern.edu/research/scholarly/digital-publishing.html) in cooperation with the [Buffett Institute for Global Affairs](https://buffett.northwestern.edu/). 

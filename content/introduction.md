@@ -1,7 +1,7 @@
 ---
 title: Introduction 
 subtitle: Nuclear Compensation
-weight: 3
+weight: 4
 type: page
 class: page-one
 image: iaea_fukushima.jpg
