@@ -1,7 +1,8 @@
 ---
-title: Cover
+title: Nuclear Disaster Compensation
+subtitle: A Call for Action
+short_title: A Call for Action
 weight: 1
-menu: false
 type: cover
 slug: .
 image: cover.jpg
