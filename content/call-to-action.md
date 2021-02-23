@@ -1,8 +1,19 @@
 ---
 title: Nuclear Disaster Compensation
 subtitle: A Call for Action
+short_title: Call for Action
+weight: 4
+contributor:
+    - id: yashina
+    - id: mmitchell
+    - id: hmiyazaki
+    - id: ariles
+    - id: sschmid
+    - id: rslayton
+    - id: tsuami
+    - id: stakahashi
+    - id: dyokomizo
 online: false
-weight: 5
 ---
 
 Nuclear energy provides 10% of electricity world-wide, a percentage that is likely to increase as nation-states work to fuel growing economies while limiting the devastating environmental effects of carbon-based energy sources. Yet, on the tenth anniversary of Japan's devastating triple disaster, we are reminded that nuclear energy imposes unique risks and burdens on citizens. Between 1979 and 2011, three reactor meltdowns, with distinct causes and effects, have forced communities to deal with the insidious consequences of radiological contamination. Radionuclides, in contrast to many other by-products of energy production, require the interventions of experts to sense and assess their danger. They cannot be readily smelled, tasted, heard, seen, or felt. The pathways of exposure, moreover, are multiple and include full body exposure, inhalation, and consumption of contaminated food sources. Many of these radionuclides linger in environments for decades, centuries, and even millennia in some cases. These features of radiological harm place people affected by radioactive fallout in a difficult position. They must rely on experts to regulate the risks of a disaster and, afterward, to assess its effects and provide a means of redressing their injuries. Across three major disasters---Three Mile Island in 1979, Chernobyl in 1986, and Fukushima in 2011---those affected by nuclear reactor meltdowns have been forced to navigate complicated administrative and legal compensation regimes in an attempt to rebuild their lives and communities. Tax-payers and power companies' rate-payers, meanwhile, have borne many of the financial burdens of these disasters. When a major nuclear disaster occurs, its effects reach deeply into economy and society, and more often than not these effects extend to people far away from the accident's geographic location.
@@ -36,6 +47,8 @@ A truly participatory forum would recognize the extremely broad group of people 
 This leads to the third goal of a conversation about nuclear disaster compensation: it must be **transnational** because nuclear disasters do not respect national borders. Although methods for participatory governance have proliferated in recent years, most of these experiences have been confined to single nations or localities.[^2] Nonetheless, there are models for a transnational forum. Nongovernmental organizations often gather alongside intergovernmental meetings on climate change. A transnational conversation should include decision-makers and citizens from nations that are considering investing in nuclear power. Such nations should explicitly consider the risks of nuclear disasters in their planning. The costs of disaster compensation may go beyond compensating citizens in the state where a catastrophe occurs. Large-scale nuclear disasters may also impact neighboring nation-states, others in the international community, and international environments, such as the high seas. Again, current international agreements strongly limit compensation and responsibility for disasters.
 
 In sum, we are calling for a dialogue that is **anticipatory**, **participatory**, and **transnational** to best enable wiser decisions about nuclear power and its many consequences. We invite your ideas about possible forums that can move the conversation forward.
+
+{{< q-contributor range="page" format="name-title" align="right" >}}
 
 [^1]: See {{< q-cite "Downer 2011" >}}
 

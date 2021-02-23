@@ -7,6 +7,8 @@ epub: false
 
 _Nuclear Compensation: Lessons from Fukushima_ was published by [Northwestern University Libraries](https://www.library.northwestern.edu/research/scholarly/digital-publishing.html) in cooperation with the [Buffett Institute for Global Affairs](https://buffett.northwestern.edu/). 
 
+{{< q-class "backmatter" >}}
+
 ## Citation Information
 
 ### Chicago
@@ -76,8 +78,10 @@ Toshihiko Watanabe, *Cover Design*<br />
    body.  
 - Title: Nuclear Compensation : Lessons from Fukushima / edited by Hirokazu Miyazaki.  
 - Description: First edition. | Evanston : Northwestern University Libraries, 2021. | Summary: "In this report we call for the creation of a forum that enables laypersons and experts to engage in an ongoing conversation about nuclear disaster compensation issues before the next disaster occurs."-- Provided by publisher.  
-- Identifiers: LCCN 2021933415 (print) | ISBN 978-1-954984-00-4 (paperback) | ISBN 978-1-954984-01-1 (pdf) | DOI 10.21985/n2-bxst-y593
+- Identifiers: LCCN 2021933415 (print) | ISBN 978-1-954984-00-4 (paperback) | ISBN 978-1-954984-01-1 (pdf) | DOI [10.21985/n2-bxst-y593](https://doi.org/10.21985/n2-bxst-y593)
 
 {{< /q-class >}}
 
 Front cover: "Nuclear Power, the Energy for a Bright Future," Photo of a large sign in the Town of Futaba, Fukushima by Toshihiko Watanabe. All rights reserved.
+
+{{< /q-class >}}

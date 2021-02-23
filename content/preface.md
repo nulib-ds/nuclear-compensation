@@ -3,6 +3,8 @@ title: Preface
 weight: 5
 type: page
 class: grid
+contributor:
+    - id: hmiyazaki
 ---
 
 On March 11, 2011, a magnitude 9.1 earthquake hit northeastern Japan. A massive tsunami that followed the earthquake damaged the cooling systems of the reactors at Fukushima Daiichi Nuclear Power Plant leading to meltdowns and explosions. Ten years later, residents and former residents of the areas severely affected by the nuclear disaster continue to struggle to recover from the damages they sustained and reconstruct a dignified everyday life. Nearly 30 collective lawsuits have been filed against the Japanese government and Tokyo Electric Power Company (TEPCO), the operator of the troubled nuclear power plant. These lawsuits, as well as transborder claims filed in US courts by Fukushima residents and US service members who participated in rescue operations following the disaster, have exposed the limitations of the current domestic and international legal regimes for nuclear damage compensation.
