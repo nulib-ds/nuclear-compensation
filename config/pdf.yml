@@ -9,7 +9,7 @@
 #
 # If you are using the Quire commands, this will happen automatically.
 
-baseURL: ""
+baseURL: "localhost:1313"
 canonifyURLs: true
 params:
   pdf: true
