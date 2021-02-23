@@ -28,7 +28,8 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: 978-1-954984-00-4
+  doi: 10.21985/n2-bxst-y593
 
 publisher:
   - name: Northwestern University Libraries
