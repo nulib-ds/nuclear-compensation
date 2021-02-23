@@ -1,3 +1,7 @@
 .quire-page__content table {
     font-size: 0.75em;   
 }
+
+.quire-contributors-list li {
+    font-style: italic;
+}
