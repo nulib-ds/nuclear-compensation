@@ -133,7 +133,16 @@ contributor:
       Dai YOKOMIZO is Professor of Law at Nagoya University, Graduate School of Law, Nagoya, Japan, where he has taught since 2008.  A graduate of The University of Tokyo Graduate School for Law and Politics (LL.B., LL.M.), Professor Yokomizo’s main research and teaching interests include Conflict of Laws (Private International Law), Comparative Law and Private Law Theory.  He is a member at the Committee on Intellectual Property and Private International Law of International Law Association, Associate Editor of the Japanese Yearbook of International Law, member of the Advisory Board of the Italian Law Journal, and Member of the International Committee of Rivista di Diritto Sportivo.
     url: https://researchmap.jp/Dai_YOKOMIZO
     pic:
-
+  - id: rslayton
+    type: secondary
+    first_name: Rebecca
+    last_name: Slayton
+    title: Director, Reppy Institute for Peace and Conflict Studies
+    affiliation: Cornell University, Center for International Studies
+    bio: |
+      Rebecca Slayton is an associate professor of science and technology studies. Her research and teaching examine the relationships among risk, governance, and expertise, with a focus on international security and cooperation since World War II. 
+    url: https://einaudi.cornell.edu/discover/people/rebecca-slayton
+    pic: contributors/rslayton.jpg
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
