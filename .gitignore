@@ -7,3 +7,9 @@ site
 node_modules
 .tmp
 deploy-notes.md
+themes
+static/downloads/
+.circleci
+bin
+html
+resources
