@@ -7,7 +7,7 @@
 # you've copied the default theme and given it a different name make sure to
 # update the value here too.
 
-baseURL: "https://northwestern.pub/nuclear-compensation/"
+baseURL: ""
 
 title: "Nuclear Compensation"
 languageCode: "en-us"
@@ -36,7 +36,7 @@ params:
   licenseIcons: true
   pageLabelDivider: ". "
   citationPageLocationDivider: ", "
-  contributorByline: name-title # name | name-title | false
+  contributorByline: name # name | name-title | false
   displayBiblioShort: true
   imageDir: "img"
   tocType: full
