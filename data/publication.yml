@@ -117,7 +117,7 @@ contributor:
     type: secondary
     first_name: Annelise
     last_name: Riles
-    title: 
+    title: Executive Director of the Roberta Buffett Institute for Global Studies
     affiliation: Northwestern University
     bio: |
       Annelise Riles is the Executive Director of the Roberta Buffett Institute for Global Studies at Northwestern University, enhancing Northwestern’s reputation for cutting-edge, interdisciplinary programs and research on globally relevant topics. Riles will also be the Associate Provost for Global Affairs and a professor of law and anthropology. Her scholarship spans a wide range of substantive areas including human rights, managing and accommodating cultural differences, and the regulation of the global financial markets. Key areas in legal studies include comparative law, the conflict of laws, financial regulation, socio-legal studies and international law. In anthropology, her work is known for its methodological contributions as well as for its contributions to the study of international institutions and expertise.
@@ -165,16 +165,11 @@ resource_link:
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/output.pdf
-#  - type: other-format
-#    name: EPUB
-#    media_type: application/epub+zip
-#    link_relation: alternate
-#    url: /downloads/output.epub
-#  - type: other-format
-#    name: Kindle/MOBI
-#    media_type: vnd.amazon.mobi8-ebook
-#    link_relation: alternate
-#    url: /downloads/output.mobi
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: /
   - type: footer-link
     name: About
     link_relation: about
@@ -196,7 +191,7 @@ subject:
   - type: bisac
     name: LAW / Administrative Law & Regulatory Practice
     identifer: LAW001000
-  - type: getty
+  - type: bisac
     name: POLITICAL SCIENCE / Public Policy / Energy Policy
     identifier: POL068000
   - type: bisac
