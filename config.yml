@@ -47,6 +47,6 @@ params:
   entryPageObjectLinkText: "View in Collection"
   figureLabelLocation: on-top # below | on-top
   figureModal: true
-  figureModalIcons: true
+  figureModalIcons: false
   figureZoom: true
   citationPopupStyle: text # text | icon
