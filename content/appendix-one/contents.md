@@ -6,8 +6,6 @@ weight: 100
 type: contents
 class: list
 search: false
-contributor:
-    - id: hmiyazaki 
 epub: false
 pdf: false
 ---

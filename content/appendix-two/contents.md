@@ -5,9 +5,7 @@ title: "Interviews with Experts and Intellectuals"
 weight: 200
 type: contents
 class: list
-search: false
-contributor:
-    - id: hmiyazaki 
+search: false 
 pdf: false
 epub: false
 ---
