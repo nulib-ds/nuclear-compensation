@@ -9,7 +9,7 @@
 #
 # If you are using the Quire commands, this will happen automatically.
 
-baseURL: "https://northwestern.pub/nuclear-compensation/"
+baseURL: ""
 canonifyURLs: true
 params:
   epub: true
