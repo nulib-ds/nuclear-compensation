@@ -1,7 +1,7 @@
 ---
-label: Appendix 1
+label: Appendix
 slug: . 
-title: "Meridian 180 Forums"
+title: "Appendix"
 weight: 100
 type: contents
 class: list
