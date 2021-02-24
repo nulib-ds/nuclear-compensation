@@ -23,7 +23,7 @@ First edition, 2021<br />
 Evanston, Illinois 60208<br />
 [www.library.northwestern.edu](https://www.library.northwestern.edu/)<br />
 
-Hirokazu Miyazaki, *Report Editor*<br />
+Hirokazu Miyazaki, *Editor*<br />
 Timothy McLellan and Ariel Schwartz, *Project Managers*<br />
 Chris Diaz, *Digital Production Manager*<br />
 Hiroko Strulovici, *Project Coordinator*<br />
@@ -31,10 +31,6 @@ Toshihiko Watanabe, *Cover Design*<br />
 
 {{< q-class "cip-data" >}}
 
-- Names: Miyazaki, Hirokazu, editor. | Northwestern University Libraries, host institution, issuing 
-   body.  
-- Title: Nuclear Compensation : Lessons from Fukushima / edited by Hirokazu Miyazaki.  
-- Description: First edition. | Evanston : Northwestern University Libraries, 2021. | Summary: "In this report we call for the creation of a forum that enables laypersons and experts to engage in an ongoing conversation about nuclear disaster compensation issues before the next disaster occurs."-- Provided by publisher.  
 - Identifiers: LCCN 2021933415 (print) | ISBN 978-1-954984-00-4 (paperback) | ISBN 978-1-954984-01-1 (pdf) | DOI 10.21985/n2-bxst-y593
 
 {{< /q-class >}}

@@ -1,12 +1,11 @@
 ---
-title: Cover
+title: A Call for Action
 weight: 1
 type: cover
 slug: .
 image: cover.jpg
 img_src: https://flic.kr/p/9r2sZz
 toc: false
-menu: false
 contributor:
     - id: yashina
     - id: mmitchell

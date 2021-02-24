@@ -13,6 +13,7 @@ title: Nuclear Compensation
 subtitle: Lessons from Fukushima
 reading_line:
 short_title: Nuclear Compensation
+url: https://nuclear-compensation.northwestern.pub
 
 description:
   one_line: In this report we call for the creation of a forum that enables laypersons and experts to engage in an ongoing conversation about nuclear disaster compensation issues before the next disaster occurs.
@@ -164,7 +165,7 @@ resource_link:
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/Miyazaki_Nuclear-Compensation.pdf
   - type: other-format
     name: Paperback
     media_type: print
@@ -218,10 +219,10 @@ subject:
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
-    summary:
+  - date: 2021
+    summary: First Edition
 
-repository_url:
+repository_url: https://github.com/nulib-ds/nuclear-compensation
 
 # ------------------------------------------------------------------------------
 # Promo Image
