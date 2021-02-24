@@ -7,7 +7,7 @@
 # you've copied the default theme and given it a different name make sure to
 # update the value here too.
 
-baseURL: "https://nuclear-compensation.northwestern.pub"
+baseURL: "nuclear-compensation.northwestern.pub"
 
 title: "Nuclear Compensation"
 languageCode: "en-us"
