@@ -6,16 +6,6 @@ slug: .
 image: cover.jpg
 img_src: https://flic.kr/p/9r2sZz
 toc: false
-contributor:
-    - id: yashina
-    - id: mmitchell
-    - id: hmiyazaki
-    - id: ariles
-    - id: sschmid
-    - id: rslayton
-    - id: tsuami
-    - id: stakahashi
-    - id: dyokomizo
 ---
 
 ## NUCLEAR DISASTER COMPENSATION: A CALL FOR ACTION
