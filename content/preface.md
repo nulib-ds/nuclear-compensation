@@ -23,6 +23,6 @@ Special thanks are also due to Rachel Bronson, President and CEO of the Bulletin
 
 We benefited a great deal from extensive comments provided by Kennette Benedict, Rachel Bronson, Norma Field, Robert Rosner, and Edward Tanzman, who served as expert readers for this project. We also thank Kemi Adeyemi for her careful copyediting work. The preparation of the final manuscript would have been impossible without Alexandra De Leon's resourceful, thorough, and timely editorial work.
 
-We thank the extraordinarily dedicated staff of the Buffett Institute for Global Affairs, especially Ariel Schwartz, Dayna Dion, Hiroko Strulovici, Tim Mclellan, and Ahmed Khan, for their thoughtful guidance and much needed encouragement. We are deeply indebted to Chris Diaz, Digital Publishing Librarian at the Northwestern University Libraries, for his dedication, creativity, and flexibility, which are reflected in all versions and dimensions of the final published work.
+We thank the extraordinarily dedicated staff of the Northwestern Buffett Institute for Global Affairs, especially Ariel Schwartz, Dayna Dion, Hiroko Strulovici, Tim Mclellan, and Ahmed Khan, for their thoughtful guidance and much needed encouragement. We are deeply indebted to Chris Diaz, Digital Publishing Librarian at the Northwestern University Libraries, for his dedication, creativity, and flexibility, which are reflected in all versions and dimensions of the final published work.
 
 The production of this report was funded in part with generous gifts from Shawn Galey and Thomas Riles to Meridian 180.
