@@ -44,6 +44,8 @@ In sum, we are calling for a dialogue that is **anticipatory**, **participatory*
 
 {{< q-contributor range="page" format="name" align="right" >}}
 
+***
+
 [^1]: See {{< q-cite "Downer 2011" >}}
 
 [^2]: See, e.g., {{< q-cite "Chilvers and Kearnes 2020" "347-380" >}}; {{< q-cite "Irwin 2006" "299-320" >}}; {{< q-cite "Laurent 2011" "649-666" >}}; and {{< q-cite "Lezaun, Marres, and Tironi 2017" "195-221" >}}

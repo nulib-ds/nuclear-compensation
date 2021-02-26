@@ -143,6 +143,8 @@ At the minimum, this report calls for the establishment of an inclusive and ongo
 
 Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a catastrophe of time. The radionuclides strewn across our earth will live for 50,000, 100,000, 200,000 years. And longer. From the perspective of human life, they are eternal."[^57] She defines her book, a collage of stories about Chernobyl, as a chronicle of the future: "What lingers most in my memory of Chernobyl is life afterwards: the possessions without owners, the landscapes without people. The roads going nowhere, the cables leading nowhere. You find yourself wondering just what this is: the past or the future. It sometimes felt to me as if I was recording the future."[^58] What this report offers is nothing short of a glimpse of the ongoing struggles to keep this futurity in view while seeking a better way to prepare ourselves for and manage a future crisis. The lessons from Fukushima lie precisely in these struggles.
 
+***
+
 [^1]: {{< q-cite "Miller et al. 2011" "vii" >}}
 
 [^2]: {{< q-cite "Kurokawa, et al. 2012" "9" >}}
