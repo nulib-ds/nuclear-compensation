@@ -324,3 +324,7 @@ entries:
     full: |
       Szasz, Paul C. *The Law and Practices of the International Atomic Energy Agency*. Vienna: IAEA, 1970.
     sort: "Szasz"
+  - id: "Riles 2018"
+    full: |
+      Riles, Annelise. 2018. *[Financial Citizenship: Experts, Publics, and the Politics of Central Banking](https://www.cornellpress.cornell.edu/book/9781501732720/financial-citizenship/#bookTabs=1)*. Ithaca, NY: Cornell University Press. 
+    sort: Riles
