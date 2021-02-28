@@ -177,11 +177,11 @@ Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a c
 
 [^16]: {{< q-cite "WNA 2018" >}}
 
-[^17]: {{< q-cite "Lerner and Tanzman 2014" "591" >}}
+[^17]: {{< q-cite "Lerner and Tanzman 2013" "591" >}}
 
-[^18]: {{< q-cite "Lerner and Tanzman 2014" "593" >}}
+[^18]: {{< q-cite "Lerner and Tanzman 2013" "593" >}}
 
-[^19]: {{< q-cite "Lerner and Tanzman 2014" "594" >}}
+[^19]: {{< q-cite "Lerner and Tanzman 2013" "594" >}}
 
 [^20]: See Mitchell, this volume.
 
