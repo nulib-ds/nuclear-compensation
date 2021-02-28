@@ -47,10 +47,6 @@ entries:
     full: |
       Laurent, Brice. "Technologies of Democracy: Experiments and Demonstrations." Science and Engineering Ethics 17, no. 4 (2011): 649-666.
     sort: "Laurent"
-  - id: "Lerner and Tanzman 2014"
-    full: |
-      Lerner, Ken, and Edward Tanzman. "Making Victims Whole: Compensation of Nuclear Incident Victims in Japan and the United States." *Legislation and Public Policy* 17 (2014): 543--94.
-    sort: "Lerner"
   - id: "Lezaun, Marres, and Tironi 2017"
     full: |
       Lezaun, Javier, Noortje Marres, and Manuel Tironi. "Experiments in Participation." In Ulrike Felt, Rayvon Fouché, Clark A. Miller, and Lauren Smith-Doerr (eds). *The Handbook of Science and Technology Studies*. 4th edition. Pp. 195-221. Cambridge, MA, MIT Press, 2017.
@@ -74,11 +70,11 @@ entries:
   - id: "Miyazaki 2004"
     full: |
       Miyazaki, Hirokazu. *The Method of Hope: Anthropology, Philosophy, and Fijian Knowledge.* Stanford, CA: Stanford University Press, 2004.
-    sort: "Miyazaki"
+    sort: "Miyazaki04"
   - id: "Miyazaki 2014"
     full: |
       Miyazaki, Hirokazu. "Saving TEPCO: Debt, Credit and the 'End' of Finance in Post-Fukushima Japan." In *Corporations and Citizenship*, edited by Greg Urban, 127--40. Philadelphia: University of Pennsylvania Press, 2014.
-    sort: "Miyazaki"
+    sort: "Miyazaki14"
   - id: "Morita and Kimura 2013"
     full: |
       Morita, Atsuro, and Shuhei Kimura. "Environmental Infrastructures of Emergency: The Formation of a Civic Radiation Monitoring Map during the Fukushima Disaster." In *Nuclear Disaster at Fukushima Daiichi: Social, Political and Environmental Issues*, edited by Richard Hindmarsh, 78--96. New York: Routledge, 2013.
@@ -102,7 +98,7 @@ entries:
   - id: "Riles 2013"
     full: |
       Riles, Annelise. "Market Collaboration: Finance, Culture, and Ethnography after Neoliberalism." *American Anthropologist* 115, no. 4 (2013): 555--69.
-    sort: "Riles"
+    sort: "Riles_m"
   - id: "Samuels 2013"
     full: |
       Samuels, Richard J. *3.11: Disaster and Change in Japan*. Ithaca, NY: Cornell University Press, 2013.
@@ -121,16 +117,16 @@ entries:
     sort: "Gotchy"
   - id: "Gourley et al. 1985"
     full: 'Gourley, Donald, Chub Wilcox, and Joseph Marrone. "The Nuclear Liability Claims Experience of the Nuclear Insurance Pools: Report to American Nuclear Insurers and Mutual Atomic Energy Liability Underwriters." In *The Price-Anderson Law: Reports on Price-Anderson Issues*. American Nuclear Insurers and Mutual Atomic Energy Liability Underwriters, 1985.' 
-    sort: gourley
+    sort: "Gourley"
   - id: "Hewlett and Holl 1989"
     full: "Hewlett, Richard G., and Jack M. Holl. *Atoms for Peace and War, 1953-1961: Eisenhower and the Atomic Energy Commission*. Berkeley, CA: University of California Press, 1989." 
-    sort: "hewlett"
-  - id: IAEA
+    sort: "Hewlett"
+  - id: "International Atomic Energy Agency Information Series, 08-26941/E"
     full: '"International Atomic Energy Agency Information Series." International Atomic Energy Agency. Division of Public Information, 08-26941/E. https://www.iaea.org/sites/default/files/ines.pdf.' 
-    sort: iaea
+    sort: "IAEA_I"
   - id: "Krige 2006"
     full: 'Krige, John. "Atoms for Peace, Scientific Internationalism, and Scientific Intelligence." *Osiris* 21, no. 1 (2006): 161--81. https://doi.org/10.1086/507140.' 
-    sort: Krige
+    sort: "Krige"
   - id: "Lindee 2016"
     full: 'Lindee, Susan. "Survivors and scientists: Hiroshima, Fukushima, and the Radiation Effects Research Foundation, 1975--2014." *Social Studies of Science* 46, no. 2 (2016): 184-209.' 
     sort: "Lindee"
@@ -143,12 +139,12 @@ entries:
   - id: "Mitchell forthcoming"
     full: 'Mitchell, M. X. "The Cosmology of Evidence: Suffering, Science, and Biological Witness after Three Mile Island." *Journal of the History of Biology*, forthcoming.' 
     sort: "Mitchell"
-  - id: "NRC 2018a"
+  - id: "Nuclear Regulatory Commission, June 2018"
     full: 'Nuclear Regulatory Commission, "Backgrounder on the Three Mile Island Accident." June 21, 2018. https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html.' 
-    sort: NRC
-  - id: "NRC 2018b"
+    sort: "NRC02"
+  - id: "Nuclear Regulatory Commission, January 2018"
     full: 'Nuclear Regulatory Commission, "Backgrounder on Nuclear Insurance and Disaster Relief." January 2018. https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/nuclear-insurance.html.' 
-    sort: "NRC"
+    sort: "NRC01"
   - id: "Obayashi and Hamada 2016"
     full: 'Obayashi, Yuka, and Kentaro Hamada. "Japan Nearly Doubles Fukushima Disaster-Related Costs to \$188 Billion." *Reuters*, December 8, 2016.' 
     sort: "Obayashi"
@@ -202,19 +198,19 @@ entries:
     sort: "Gerasimova"
   - id: "Ioirysh 1969"
     full: "Ioirysh, Abram I. *Atom i pravo The Atom and the Law*. Moscow: Mezhdunarodnye otnosheniia, 1969."
-    sort: "Ioirysh" 
+    sort: "Ioirysh_atom" 
   - id: "Ioirysh 1975"
     full: "Ioirysh, Abram I. *Atomnaia energiia: pravovye problemy Nuclear Energy: Legal Problems*. Moscow: Nauka, 1975."
-    sort: "Ioirysh"
+    sort: "Ioirysh_atomnaia"
   - id: "Ioirysh 1979"
     full: "Ioirysh, Abram I. *Pravovye problemy mirnogo ispol'zovaniia atomnoi energii *Legal Problems of the Peaceful Use of Nuclear Energy*. Moscow: Znanie, 1979."
-    sort: "Ioirysh"
+    sort: "Ioirysh_p"
   - id: "Ioirysh 1986"
     full: "Ioirysh, Abram I., Petr N. Burgasov, and Andranik M. Petros'iants, eds., *Sovetskoe atomnoe pravo Soviet Nuclear Law*. Moscow: Nauka, 1986."
-    sort: "Ioirysh"
+    sort: "Ioirysh_s"
   - id: "Ioirysh 1987"
     full: "Ioirysh, Abram I., Vladimir F. Petrovskii, and Andranik M. Petros'iants, eds., *Mezhdunarodnoe atomnoe pravo International Nuclear Law.* Moscow: Nauka, 1987."
-    sort: "Ioirysh"
+    sort: "Ioirysh_m"
   - id: "Khlestova 2015"
     full: 'Khlestova, Irina O. "International Legal Regulation of Nuclear Liability / Mezhdunarodno-pravovoe regulirovanie otvetstvennosti za iadernyi ushcherb." *Zhurnal rossiiskogo prava* 1 (2015): 127-139.'
     sort: "Khlestova"
@@ -276,10 +272,10 @@ entries:
     full: |
       Heffron, Raphael J., Stephen F. Ashley, and William J. Nuttall. "The Global Nuclear Liability Regime Post Fukushima Daiichi." *Progress in Nuclear Energy* 90 (2016): 1--10. https://doi.org/10.1016/j.pnucene.2016.02.019.
     sort: "Heffron"
-  - id: "IAEAb"
+  - id: "International Atomic Energy Agency, 2007"
     full: |
       International Atomic Energy Agency. *The 1997 Vienna Convention on Civil Liability for Nuclear Damage and the 1997 Convention on Supplementary Compensation for Nuclear Damage---Explanatory Texts*. Vienna: IAEA, 2007.
-    sort: "IAEAb"
+    sort: "IAEA_1997"
   - id: "Kerr, Holt, and Nikitin 2014"
     full: |
       Kerr, Paul K, Holt, Mark, and Nikitin, Mary Beth. *Nuclear Energy Cooperation with Foreign Countries: Issues for Congress.* Washington, D.C.: Congressional Research Service, 2014.
@@ -299,27 +295,27 @@ entries:
   - id: "Pelzer 1988"
     full: |
       Pelzer, Norbert. "Concepts of Nuclear Liability Revisited: A Post-Chernobyl Assessment of the Paris and the Vienna Conventions." In *Nuclear Energy Law After Chernobyl*, edited by Peter Cameron et. al., 97-114. London: Graham and Trotman, 1988.
-    sort: "Pelzer"
+    sort: "Pelzer_c"
   - id: "Pelzer 2010"
     full: |
       Pelzer, Norbert. "Main Features of the Revised International Liability Regime Governing Nuclear Liability---Progress and Standstill." In *International Nuclear Law: History, Evolution and Outlook*, 355-386, Paris: OECD, 2010.
-    sort: "Pelzer"
+    sort: "Pelzer_m"
   - id: "Pelzer 2007"
     full: |
       Pelzer, Norbert. "The NEA Nuclear Law Committee." Presentation, 50th Anniversary of the Nuclear Law Committee, the Colloquium on the Past, Present and Future of the Nuclear Law Committee, Paris, France, February 6, 2007.
-    sort: "Pelzer"
+    sort: "Pelzer_n"
   - id: "Schwartz 2010"
     full: |
       Schwartz, Julia A. "Liability and Compensation for Third Party Damage Resulting from a Nuclear Incident." In *International Nuclear Law: History, Evolution and Outlook*, 307-354, Paris: OECD, 2010.
-    sort: "Schwartz"
+    sort: "Schwartz_l"
   - id: "Schwartz 2007"
     full: |
       Schwartz, Julia A. "The Nuclear Law Committee--A Historical Perspective." Presentation, 50th Anniversary of the Nuclear Law Committee, the Colloquium on the Past, Present and Future of the Nuclear Law Committee, Paris, France, February 6, 2007.
-    sort: "Schwartz"
+    sort: "Schwart_n"
   - id: "Schwartz 2006"
     full: |
-      Julia A. Schwartz, "International Third-Party Liability Law: The Response to Chernobyl," in the Joint Report by the OECD, NEA, and IAEA, *International Nuclear Law in the Post-Chernobyl Period* (Paris: OECD, 2006)
-    sort: "Schwartz"
+      Schwartz, Julia A. “International Third-Party Liability Law: The Response to Chernobyl.” In the Joint Report by the OECD, NEA, and IAEA, International Nuclear Law in the Post-Chernobyl Period, Paris: OECD, 2006.
+    sort: "Schwartz_i"
   - id: "Szasz 1970"
     full: |
       Szasz, Paul C. *The Law and Practices of the International Atomic Energy Agency*. Vienna: IAEA, 1970.
@@ -327,4 +323,4 @@ entries:
   - id: "Riles 2018"
     full: |
       Riles, Annelise. 2018. *[Financial Citizenship: Experts, Publics, and the Politics of Central Banking](https://www.cornellpress.cornell.edu/book/9781501732720/financial-citizenship/#bookTabs=1)*. Ithaca, NY: Cornell University Press. 
-    sort: Riles
+    sort: "Riles_f"
