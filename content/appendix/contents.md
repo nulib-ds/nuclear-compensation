@@ -1,7 +1,7 @@
 ---
-label: Appendix
+label: Appendices
 slug: . 
-title: "Appendix"
+title: "Supplemental Materials"
 weight: 100
 type: contents
 class: list
