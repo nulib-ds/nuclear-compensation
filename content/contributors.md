@@ -4,6 +4,6 @@ weight: 301
 type: page
 ---
 
-{{< q-contributor range=”primary” format=”bio” >}}
+{{< q-contributor range="primary" format="bio" >}}
 
-{{< q-contributor range=”secondary” format=”bio” >}}
+{{< q-contributor range="secondary" format="bio" >}}
