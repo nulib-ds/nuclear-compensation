@@ -11,6 +11,10 @@ entries:
     full: | 
       Irwin, Alan. "The Politics of Talk: Coming to Terms with the 'New' Scientific Governance." *Social Studies of Science* 36, no. 2 (2006): 299-320.
     sort: "Irwin"
+  - id: "Abraham 2014"
+    full: |
+      Abraham, Mohit. Nuclear Liability: A Key Component of the Public Policy Decision to Deploy Nuclear Energy in Southeast Asia. Cambridge, MA: American Academy of Arts and Sciences, 2014. 
+    sort: "Abraham"
   - id: "Alexievich 2013"
     full: |
       Alexievich, Svetlana. *Chernobyl Prayer: A Chronicle of the Future*. Translated by Anna Gunin and Arch Tait. New York: Penguin Books, 2013.
@@ -35,10 +39,18 @@ entries:
     full: |
       Hecht, Gabrielle. *Being Nuclear: Africans and the Global Uranium Trade*. Cambridge, MA: MIT Press, 2012.
     sort: "Hecht"
+  - id: "Kimura 2016"
+    full: |
+      Kimura, Aya Hirata. *Radiation Brain Moms and Citizen Scientists: The Gender Politics of Food Contamination after the Fukushima*. Durham, NC: Duke University Press, 2016
+    sort: "Kimura"
   - id: "Koga 2013"
     full: |
       Koga, Yukiko. "Accounting for Silence: Inheritance, Debt, and the Moral Economy of Legal Redress in China and Japan." *American Ethnologist* 40, no. 3 (2013): 494--507.
     sort: "Koga"
+  - id: "Kuchinskaya 2014"
+    full: |
+      Kuchinskaya, Olga. *The Politics of Invisibility: Public Knowledge about Radiation Health Effects after Chernobyl*. Cambridge, MA: MIT Press, 2014.
+    sort: "Kuchinskaya"
   - id: "Kurokawa, et al. 2012"
     full: |
       Kurokawa, Kiyoshi, Katsuhiko Ishibashi, Kenzo Oshima, Hisako Sakiyama, Masafumi Sakurai, Koichi Tanaka, Mitsuhiko Tanaka, Shuya Nomura, Reiko Hachisuka, and Yoshinori Yokoyama. *The Official Report of the Fukushima Nuclear Accident Independent Investigation Commission*. The National Diet of Japan, 2012.
@@ -51,10 +63,10 @@ entries:
     full: |
       Lezaun, Javier, Noortje Marres, and Manuel Tironi. "Experiments in Participation." In Ulrike Felt, Rayvon Fouché, Clark A. Miller, and Lauren Smith-Doerr (eds). *The Handbook of Science and Technology Studies*. 4th edition. Pp. 195-221. Cambridge, MA, MIT Press, 2017.
     sort: "Lezaun"
-  - id: "WNA 2018"
+  - id: "World Nuclear Association 2018"
     full: |
-      "Liability for Nuclear Damage." World Nuclear Association, 2018. http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/liability-for-nuclear-damage.aspx.
-    sort: "Liability"
+      World Nuclear Association. "[Liability for Nuclear Damage](http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/liability-for-nuclear-damage.aspx)," 2018. 
+    sort: "World Nuclear Association"
   - id: "Lochbaum, Lyman, Stranahan, et al. 2014"
     full: |
       Lochbaum, David, Edwin Lyman, Susan Q. Stranahan and the Union of Concerned Scientists. *Fukushima: The Story of a Nuclear Disas*ter. New York: New Press, 2014.
