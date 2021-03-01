@@ -7,7 +7,7 @@ epub: false
 
 _Nuclear Compensation: Lessons from Fukushima_ was published by [Northwestern University Libraries](https://www.library.northwestern.edu/research/scholarly/digital-publishing.html) in cooperation with the [Buffett Institute for Global Affairs](https://buffett.northwestern.edu/). 
 
-{{< q-class "backmatter" >}}
+{{< q-class ”backmatter” >}}
 
 ## Citation Information
 
@@ -34,13 +34,13 @@ https://doi.org/10.21985/n2-bxst-y593
 
 ### Website Images
 
-- Cover: "Nuclear Power, the Energy for a Bright Future" by Toshihiko Watanabe, courtesy of Toshihiko Watanabe. Photo of a large sign in the Town of Futaba, Fukushima stating “Nuclear Power, the Energy for a Bright Future.”
+- Cover: ”Nuclear Power, the Energy for a Bright Future” by Toshihiko Watanabe, courtesy of Toshihiko Watanabe. Photo of a large sign in the Town of Futaba, Fukushima stating “Nuclear Power, the Energy for a Bright Future.”
 
 - Introduction: [IAEA Experts at Fukushima](https://flic.kr/p/ec5jXh) by [IAEA](https://www.flickr.com/photos/iaea_imagebank/), licensed under the [Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/). 
 
 - Chapter One: [Fukushima Daiichi Nuclear Power Station (02110041)](https://flic.kr/p/qcinzK) by [IAEA ImagebankFollow](https://www.flickr.com/photos/iaea_imagebank/), licensed under the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0). 
 
-- Chapter Two: [Three Mile Island "Sonnar T* E 1,8/24"](https://flic.kr/p/e3XYEi) by [Ted Van Pelt](https://www.flickr.com/photos/bantam10/), licensed under the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0). 
+- Chapter Two: [Three Mile Island ”Sonnar T* E 1,8/24”](https://flic.kr/p/e3XYEi) by [Ted Van Pelt](https://www.flickr.com/photos/bantam10/), licensed under the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0). 
 
 - Chapter Three: [Sign at Entrance to Chernobyl Exclusion Zone - Northern Ukraine](https://flic.kr/p/GSu7Qh) by [Adam Jones](https://www.flickr.com/people/41000732@N04), licensed under the [Creative Commons Attribution 2.0 Generic license](https://creativecommons.org/licenses/by/2.0). 
 
@@ -72,16 +72,16 @@ Chris Diaz, *Digital Production Manager*<br />
 Hiroko Strulovici, *Project Coordinator*<br />
 Toshihiko Watanabe, *Cover Design*<br />
 
-{{< q-class "cip-data" >}}
+{{< q-class ”cip-data” >}}
 
 - Names: Miyazaki, Hirokazu, editor. | Northwestern University Libraries, host institution, issuing 
    body.  
 - Title: Nuclear Compensation : Lessons from Fukushima / edited by Hirokazu Miyazaki.  
-- Description: First edition. | Evanston : Northwestern University Libraries, 2021. | Summary: "In this report we call for the creation of a forum that enables laypersons and experts to engage in an ongoing conversation about nuclear disaster compensation issues before the next disaster occurs."-- Provided by publisher.  
+- Description: First edition. | Evanston : Northwestern University Libraries, 2021. | Summary: ”In this report we call for the creation of a forum that enables laypersons and experts to engage in an ongoing conversation about nuclear disaster compensation issues before the next disaster occurs.”-- Provided by publisher.  
 - Identifiers: LCCN 2021933415 (print) | ISBN 978-1-954984-00-4 (paperback) | ISBN 978-1-954984-01-1 (pdf) | DOI [10.21985/n2-bxst-y593](https://doi.org/10.21985/n2-bxst-y593)
 
 {{< /q-class >}}
 
-Front cover: "Nuclear Power, the Energy for a Bright Future," Photo of a large sign in the Town of Futaba, Fukushima by Toshihiko Watanabe. All rights reserved.
+Front cover: ”Nuclear Power, the Energy for a Bright Future,” Photo of a large sign in the Town of Futaba, Fukushima by Toshihiko Watanabe. All rights reserved.
 
 {{< /q-class >}}
