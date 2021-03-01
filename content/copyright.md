@@ -10,7 +10,7 @@ toc: false
 
 The free online edition of this publication is available at [nuclear-compensation.northwestern.pub](http://nuclear-compensation.northwestern.pub). Also available is a free PDF download of the book.
 
-© 2020 The Authors
+© 2021 The Authors
 
 ![CC BY-NC-ND](/img/by-nc-nd.png)
 

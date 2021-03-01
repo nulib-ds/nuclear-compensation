@@ -47,6 +47,7 @@ contributor_as_it_appears: "Edited by Hirokazu Miyazaki"
 contributor:
   - id: hmiyazaki
     type: primary
+    role: editor
     first_name: Hirokazu 
     last_name: Miyazaki
     title: Kay Davis Professor, Professor of Anthropology
