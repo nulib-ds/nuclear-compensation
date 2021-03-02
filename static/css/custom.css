@@ -5,3 +5,11 @@
 .quire-contributors-list li {
     font-style: italic;
 }
+
+.page-break {
+    border: none;
+    margin: 0;
+    page-break-before: always;  
+    visibility: hidden;
+}
+  
