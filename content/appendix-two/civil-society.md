@@ -1,10 +1,10 @@
 ---
-slug: . 
 title: "The Role of Civil Society"
 weight: 201
 type: page
 epub: false
 pdf: false
+menu: false
 ---
 
 ## Chika Watanabe "The History of International NGOs (INGOs) in Japan"

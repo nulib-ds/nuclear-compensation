@@ -1,10 +1,29 @@
 ---
-slug: . 
 title: "Nuclear Energy and Climate Change"
 weight: 104
 type: page
 epub: false
 pdf: false
+menu: false
+contributor:
+    -   first_name: Hirokazu
+        last_name: Miyazaki
+    -   first_name: Amy
+        last_name: Levine
+    -   first_name: Satsuki
+        last_name: Takahashi
+    -   first_name: Vincent
+        last_name: Ialenti
+    -   first_name: Gabrielle
+        last_name: Hecht
+    -   first_name: Haejoang
+        last_name: Cho
+    -   first_name: Shuhei
+        last_name: Kimura
+    -   first_name: Yuki
+        last_name: Ashina
+    -   first_name: Hiroyuki
+        last_name: Mori
 ---
 
 ## Hirokazu Miyazaki
@@ -119,5 +138,4 @@ The true cause of the Fukushima nuclear power plant accident has not been clarif
 
 As a specialist of local governmental finances and economics, I have researched the Fukui Prefecture, which has the biggest agglomeration of nuclear plants in the world. I realize that this area is confined by a social-economic structure which depends on nuclear power plants and their potential to bring in enormous fixed asset tax, grants, subsidies, public works projects and consumer demand. At the same time, during my research, I felt that there was a strange atmosphere which did not permit us to speak about the nuclear power plant problem inside of the area. There was a horrible situation in which power companies attempted to conciliate local interested parties with bribes and municipalities put pressure on local residents who were opposed to nuclear power plants.
 
-Following the precautionary principle in protecting health and the environment, which is common practice throughout the world, reducing and closing nuclear plants is inevitable. We should not cause other historical catastrophes. Toward that end, we have to take measures in areas already bound up within the structure of nuclear power plant dependence, fully mobilizing every kind of public policy such as monetary policy, financial policy, industrial development and citizen participation. I think it will take this kind of mobilization to abolish nuclear power plants
-
+Following the precautionary principle in protecting health and the environment, which is common practice throughout the world, reducing and closing nuclear plants is inevitable. We should not cause other historical catastrophes. Toward that end, we have to take measures in areas already bound up within the structure of nuclear power plant dependence, fully mobilizing every kind of public policy such as monetary policy, financial policy, industrial development and citizen participation. I think it will take this kind of mobilization to abolish nuclear power plants.

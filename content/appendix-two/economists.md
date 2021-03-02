@@ -1,10 +1,10 @@
 ---
-slug: . 
 title: "The Role of Economists"
 weight: 203
 type: page
 epub: false
 pdf: false
+menu: false
 ---
 
 ##  Interview with Yuji Genda, Interviewed by Naruhito Cho

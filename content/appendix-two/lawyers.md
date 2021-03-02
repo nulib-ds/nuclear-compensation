@@ -1,10 +1,10 @@
 ---
-slug: . 
 title: "The Role of Lawyers in Nuclear and Natural Disasters"
 weight: 204
 type: page
 epub: false
 pdf: false
+menu: false
 ---
 
 ###  Ashina Yuki "What role should attorneys play in nuclear and natural disasters?"

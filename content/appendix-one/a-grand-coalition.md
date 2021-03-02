@@ -1,10 +1,25 @@
 ---
-slug: . 
 title: "A Grand Coalition for a Rise in the Consumption Tax is the Only Way"
 weight: 102
 type: page
 epub: false
 pdf: false
+menu: false
+contributor:
+    -   first_name: Yugi
+        last_name: Genda
+    -   first_name: Naoki
+        last_name: Sakai
+    -   first_name: Hirokazu
+        last_name: Miyazaki
+    -   first_name: Shigeki
+        last_name: Uno
+    -   first_name: Cynthia
+        last_name: Bowman
+    -   first_name: Tom
+        last_name: Ginsburg
+    -   first_name: Annelise
+        last_name: Riles
 ---
 
 ## Yuji Genda "A Grand Coalition for a Rise in the Consumption Tax is the Only Way"

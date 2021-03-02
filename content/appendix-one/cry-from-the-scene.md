@@ -1,10 +1,25 @@
 ---
-slug: . 
 title: "Cry from the Scene"
 weight: 101
 type: page
 epub: false
 pdf: false
+menu: false
+contributor:
+    -   first_name: Naoki
+        last_name: Kasuga
+    -   first_name: Cynthia
+        last_name: Bowman
+    -   first_name: Grace
+        last_name: Guo
+    -   first_name: Clark R.
+        last_name: West
+    -   first_name: Tai-Li
+        last_name: Lin
+    -   first_name: Grace
+        last_name: Kuo
+    -   first_name: Naoki
+        last_name: Kamiyama
 ---
 
 ## Naoki Kasuga "Cry from the Scene"

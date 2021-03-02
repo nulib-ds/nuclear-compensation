@@ -1,10 +1,39 @@
 ---
-slug: . 
 title: "Crisis of Relationality"
 weight: 103
 type: page
 epub: false
 pdf: false
+menu: false
+contributor:
+    -   first_name: Yugi
+        last_name: Genda
+    -   first_name: Chika
+        last_name: Watanabe
+    -   first_name: Shuhei
+        last_name: Kimura
+    -   first_name: Anne
+        last_name: Allison
+    -   first_name: Steffi
+        last_name: Richter
+    -   first_name: Naoki
+        last_name: Kasuga
+    -   first_name: Satsuki
+        last_name: Takahashi
+    -   first_name: Shigeki
+        last_name: Uno
+    -   first_name: Annelise
+        last_name: Riles
+    -   first_name: Hiroyuki
+        last_name: Mori
+    -   first_name: Hirokazu
+        last_name: Miyazaki
+    -   first_name: John
+        last_name: Whitman
+    -   first_name: Ghassan
+        last_name: Hage
+    -   first_name: Naoki
+        last_name: Yokoyama
 ---
 
 ## Yuji Genda "Missing" 
@@ -210,4 +239,4 @@ It seems that the experience from the 3/11 earthquake and the nuclear disaster i
 
 Whichever position you take, I would like to share that the foundation of Genyu's book, "Fukushima ni Ikiru," is the message to "not depend on power or authority." The former position (of uncontrollability) is "to try various things without any secure approach to a solution, being puzzled and confused in too abstract a reality, to grasp at straws." The latter position (of controllability) is "to establish a system by discovering techniques for living in a fundamentally uncertain and unknowable world." The role of intellectuals and professionals is to clarify and establish such techniques.
 
-I wrote this comment because I hope that Meridian 180 can be an experimental place for politics of hope.
+I wrote this comment because I hope that Meridian 180 can be an experimental place for a politics of hope.
