@@ -6,6 +6,16 @@ slug: .
 image: cover.jpg
 img_src: https://flic.kr/p/9r2sZz
 toc: false
+contributor:
+    - id: yashina
+    - id: mmitchell
+    - id: hmiyazaki
+    - id: ariles
+    - id: sschmid
+    - id: rslayton
+    - id: tsuami
+    - id: stakahashi
+    - id: dyokomizo
 ---
 
 ## NUCLEAR DISASTER COMPENSATION: A CALL FOR ACTION
@@ -41,6 +51,8 @@ A truly participatory forum would recognize the extremely broad group of people 
 This leads to the third goal of a conversation about nuclear disaster compensation: it must be **transnational** because nuclear disasters do not respect national borders. Although methods for participatory governance have proliferated in recent years, most of these experiences have been confined to single nations or localities.[^2] Nonetheless, there are models for a transnational forum.[^3] Nongovernmental organizations often gather alongside intergovernmental meetings on climate change. A transnational conversation should include decision-makers and citizens from nations that are considering investing in nuclear power. Such nations should explicitly consider the risks of nuclear disasters in their planning. The costs of disaster compensation may go beyond compensating citizens in the state where a catastrophe occurs. Large-scale nuclear disasters may also impact neighboring nation-states, others in the international community, and international environments, such as the high seas. Again, current international agreements strongly limit compensation and responsibility for disasters.
 
 In sum, we are calling for a dialogue that is **anticipatory**, **participatory**, and **transnational** to best enable wiser decisions about nuclear power and its many consequences. We invite your ideas about possible forums that can move the conversation forward.
+
+{{< q-contributor range="page" format="name" align="right" >}}
 
 ***
 
