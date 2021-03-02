@@ -1,2 +1,8 @@
 User-agent: * 
-Disallow: /
+Sitemap: sitemap.xml
+Disallow: /fonts/
+Disallow: /data/
+Disallow: /css/
+Disallow: /img/
+Disallow: /icons/
+Disallow: https://nuclear-compensation.northwestern.pub/sitemap.xml
