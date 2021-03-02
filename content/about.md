@@ -5,7 +5,7 @@ pdf: false
 epub: false
 ---
 
-_Nuclear Compensation: Lessons from Fukushima_ was published by [Northwestern University Libraries](https://www.library.northwestern.edu/research/scholarly/digital-publishing.html) in cooperation with the [Buffett Institute for Global Affairs](https://buffett.northwestern.edu/). 
+_Nuclear Compensation: Lessons from Fukushima_ was published by [Northwestern University Libraries](https://www.library.northwestern.edu/research/scholarly/digital-publishing.html) in cooperation with the [Northwestern Roberta Buffett Institute for Global Affairs](https://buffett.northwestern.edu/). 
 
 {{< q-class "backmatter" >}}
 
