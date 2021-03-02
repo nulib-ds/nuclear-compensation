@@ -65,7 +65,7 @@ contributor:
     bio: |
       Ashina Yuki is a lawyer currently based in Shizuoka City. She started her career as a lawyer in 2003. After a training period of one and a half years at a law office in Tokyo, she worked for two and a half years as the first director of a public interest law office located on the coast of Fukushima Prefecture. The office, which was founded by the Japan Federation of Bar Associations (JFBA), provides legal services to residents in the area, where there are few attorneys. Since the Fukushima Daiichi Nuclear Power Plant Accident in 2011, she has devoted herself to supporting the victims of the accident. She is also one of the core members of the JFBA Disaster Reconstruction Assistance Committee. She studied at the University of Illinois at Urbana-Champaign as a visiting scholar sent by the JFBA from June, 2019 to June, 2020. Her research compared the compensation system of mass torts in the United States and Japan.
     url: http://hinodecho-law.jp/aboutus/index2.html
-    pic:
+    pic: contributors/ashina.jpg
   - id: stakahashi
     type: secondary
     first_name: Satsuki
@@ -75,7 +75,7 @@ contributor:
     bio: |
       Satsuki Takahashi is an anthropologist and associate professor in the Faculty of Sustainability Studies, Hosei University, Tokyo. She received her BS in Fisheries Science from the Tokyo University of Fisheries and her MA and PhD in Anthropology from Rutgers University. Before joining Hosei, she was an assistant professor in the Department of Sociology and Anthropology at George Mason University, and also served as the Toyota Visiting Professor at the Center for Japanese Studies at the University of Michigan (2015-2016). In addition to a number of academic articles and book chapters, she has published a co-edited book, *To See Once More the Stars: Living in a post-Fukushima World* (New Pacific Press, 2014). She is currently preparing an ethnographic monograph, *Fukushima Future*, which discusses how the infamous seascape has been produced through entangled relationships among fishing families, the coastal environment, and Japan’s unending drive for futurism.  
     url:
-    pic:
+    pic: contributors/takahashi.png
   - id: nfujinaga
     type: secondary
     first_name: Nobuyo
@@ -84,7 +84,7 @@ contributor:
     affiliation: Osaka City Residents Network
     bio:
     url:
-    pic:
+    pic: contributors/fujinaga.png
   - id: tsuami
     type: secondary
     first_name: Takao
@@ -94,7 +94,7 @@ contributor:
     bio: |
       Takao Suami is a professor at Waseda University law School, in Tokyo, Japan. He studied law at the University of Tokyo (LL.B.), Cornell Law School (LL.M.), and the University of Leuven (KU Leuven) (LL.M.). He was previously an associate professor at Yokohama National University. He was also a visiting professor at Duke University law School in 2007 and at the University of Pennsylvania Law School in 2016. He formerly served as the president of the Japanese Association of EU Studies. He is a council member of the Japan Association of International Economic Law and a member of the board of trustees of the Japanese Association of International Law. His teaching and research interests lie in EU law, international economic law, competition law, professional responsibility, and judicial policy making in Japan.
     url:
-    pic:
+    pic: contributors/suami.jpg
   - id: mmitchell
     type: secondary
     first_name: M. X.
@@ -104,7 +104,7 @@ contributor:
     bio: |
       Mitchell is an assistant professor at the Centre for Criminology and Sociolegal Studies at the University of Toronto. Her work centers on the intersections of science and technology with law and environmental social movements in the nuclear era. Focusing on radiological risk, Mitchell's research examines the production of environmental inequality in the United States and transnationally.
     url: http://www.mxmitchell.com/
-    pic:
+    pic: contributors/mitchell.jpg
   - id: sschmid
     type: secondary
     first_name: Sonja D.
@@ -134,7 +134,7 @@ contributor:
     bio: |
       Dai YOKOMIZO is Professor of Law at Nagoya University, Graduate School of Law, Nagoya, Japan, where he has taught since 2008.  A graduate of The University of Tokyo Graduate School for Law and Politics (LL.B., LL.M.), Professor Yokomizo’s main research and teaching interests include Conflict of Laws (Private International Law), Comparative Law and Private Law Theory.  He is a member at the Committee on Intellectual Property and Private International Law of International Law Association, Associate Editor of the Japanese Yearbook of International Law, member of the Advisory Board of the Italian Law Journal, and Member of the International Committee of Rivista di Diritto Sportivo.
     url: https://researchmap.jp/Dai_YOKOMIZO
-    pic:
+    pic: contributors/yokomizo.jpg
   - id: rslayton
     type: secondary
     first_name: Rebecca
