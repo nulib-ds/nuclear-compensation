@@ -1,10 +1,16 @@
 ---
 title: "The Role of Economists"
-weight: 203
+abstract: "This is the transcript of an interview conducted in March 2012 as part of the Cornell East Asia Program symposium, “Japan’s Earthquake and Tsunami One Year Later: How Can We Bring Closure to Crises?”"
+weight: 205
 type: page
 epub: false
 pdf: false
 menu: false
+contributor:
+    -   first_name: Yuji
+        last_name: Genda
+    -   first_name: Naruhito 
+        last_name: Cho
 ---
 
 ##  Interview with Yuji Genda, Interviewed by Naruhito Cho

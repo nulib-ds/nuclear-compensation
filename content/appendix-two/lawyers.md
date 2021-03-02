@@ -5,6 +5,12 @@ type: page
 epub: false
 pdf: false
 menu: false
+abstract: "This is the transcript of a presentation and an interview conducted in March 2012 as part of the Cornell East Asia Program symposium, “Japan’s Earthquake and Tsunami One Year Later: How Can We Bring Closure to Crises?”"
+contributor:
+    -   first_name: Yuki
+        last_name: Ashina
+    -   first_name: Hirokazu
+        last_name: Miyazaki
 ---
 
 ###  Ashina Yuki "What role should attorneys play in nuclear and natural disasters?"

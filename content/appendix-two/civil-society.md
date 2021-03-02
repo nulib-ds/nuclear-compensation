@@ -5,7 +5,13 @@ type: page
 epub: false
 pdf: false
 menu: false
+contributor:
+    -   first_name: Chika 
+        last_name: Watanabe
+abstract: "This is the transcript of a presentation and an interview conducted in March 2012 as part of the Cornell East Asia Program symposium, “Japan’s Earthquake and Tsunami One Year Later: How Can We Bring Closure to Crises?”"
 ---
+
+_A video of the interview can be found here: https://vimeo.com/148636664_
 
 ## Chika Watanabe "The History of International NGOs (INGOs) in Japan"
 
