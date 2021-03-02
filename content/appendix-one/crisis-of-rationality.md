@@ -1,5 +1,6 @@
 ---
 title: "Crisis of Relationality"
+abstract: "This forum took place February – March 2012"
 weight: 103
 type: page
 epub: false

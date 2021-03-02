@@ -1,5 +1,6 @@
 ---
 title: "Nuclear Energy and Climate Change"
+abstract: "This forum took place December 2015 – February 2016"
 weight: 104
 type: page
 epub: false

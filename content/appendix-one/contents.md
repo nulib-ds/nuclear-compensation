@@ -2,7 +2,7 @@
 label: Appendix One
 title: Meridian 180 Forums
 type: contents
-class: list
+class: abstract
 slug: .
 search: false
 epub: false

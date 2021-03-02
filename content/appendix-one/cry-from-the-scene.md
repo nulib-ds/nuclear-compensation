@@ -1,5 +1,6 @@
 ---
 title: "Cry from the Scene"
+abstract: "This forum took place March - May 2011"
 weight: 101
 type: page
 epub: false
