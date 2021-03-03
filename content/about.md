@@ -49,7 +49,7 @@ https://doi.org/10.21985/n2-bxst-y593
 ## Other Formats
 
   - [PDF](/downloads/Miyazaki_nuclear-compensation.pdf)
-  - [Paperback](#)
+  - [Paperback](https://forms.gle/WwobjPPXcmLpHqZc9)
 
 ## Copyright
 
