@@ -1,7 +1,7 @@
 ---
 title: Copyright
 weight: 2
-type: page
+type: copyright
 online: false
 toc: false
 ---
