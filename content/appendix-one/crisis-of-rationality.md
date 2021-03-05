@@ -4,7 +4,6 @@ abstract: "This forum took place February – March 2012"
 weight: 103
 type: page
 epub: false
-pdf: false
 menu: false
 contributor:
     -   first_name: Yugi

@@ -4,7 +4,6 @@ abstract: "This is the transcript of an interview conducted in March 2012 as par
 weight: 205
 type: page
 epub: false
-pdf: false
 menu: false
 contributor:
     -   first_name: Yuji

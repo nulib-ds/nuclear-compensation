@@ -6,6 +6,5 @@ class: abstract
 slug: .
 search: false
 epub: false
-pdf: false
 weight: 100
 ---

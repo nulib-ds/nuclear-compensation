@@ -8,7 +8,9 @@ toc: false
 
 {{< q-class "backmatter" >}}
 
-**This is the expanded edition of _Nuclear Compensation: Lessons from Fukushima_ containing transcripts from the Meridian 180 Forums and interviews with experts and intellectuals.** The free online edition of this publication is available at [nuclear-compensation.northwestern.pub](http://nuclear-compensation.northwestern.pub). Also available is a free PDF download of the book.
+**This is the expanded edition of _Nuclear Compensation: Lessons from Fukushima_ containing transcripts from the Meridian 180 Forums and interviews with experts and intellectuals.** 
+
+The free online edition of this publication is available at [nuclear-compensation.northwestern.pub](http://nuclear-compensation.northwestern.pub). Also available is a free PDF download of the book.
 
 © 2021 The Authors
 
