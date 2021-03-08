@@ -147,7 +147,7 @@ Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a c
 
 [^2]: {{< q-cite "Kurokawa, et al. 2012" "9" >}}
 
-[^3]: Although some new regulations were introduced in Japan to account for the potential for damage to nuclear reactors from large natural disasters, nuclear policy-making processes themselves changed little in the aftermath of the accident. See {{< q-cite "Samuels 2013" "200" >}}
+[^3]: The impacts of the Fukushima disaster on Japan’s nuclear policy-making processes have not been straightforward. See {{< q-cite "Samuels 2013" "200" >}}
 
 [^4]: {{< q-cite "Perrow 1990" "5" >}}
 
