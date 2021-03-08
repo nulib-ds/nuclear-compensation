@@ -2,6 +2,6 @@
 title: Contents
 weight: 3
 type: contents
-class: list
+class: grid
 search: false
 ---
