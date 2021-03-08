@@ -147,7 +147,7 @@ Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a c
 
 [^2]: {{< q-cite "Kurokawa, et al. 2012" "9" >}}
 
-[^3]: The impacts of the Fukushima disaster on Japan’s nuclear policy-making processes have not been straightforward. See {{< q-cite "Samuels 2013" "200" >}}
+[^3]: The impacts of the Fukushima disaster on Japan’s nuclear policy-making processes have not been straightforward. See {{< q-cite "Samuels 2013" "110-150" >}}
 
 [^4]: {{< q-cite "Perrow 1990" "5" >}}
 
