@@ -25,7 +25,7 @@ contributor:
 
 ## Naoki Kasuga "Cry from the Scene"
 
-What follows are excerpts from a document found at the following website: http://www.iam-t.jp/HIRAI/pageall.html
+What follows are excerpts from a document found at the following website: [EDITOR’S NOTE: This website is no longer available]
 
 I don't know if the contents of this document are trustworthy, but the document was circulated as significant reference material among the members of a research group based at Kyoto University. I cannot imagine any absolutely trustworthy information in the current situation. The fact is that the socially constructed nature of information itself has been exposed. Many of my Japanese colleagues do not believe that this document should be circulated further. They want to handle information as carefully as possible and keep it limited so that any panic may be avoided while the current difficulty is being overcome (A majority of Japanese people would probably accept this view). This is very different from the way I think Americans approach a crisis. The American way would seek to overcome a crisis situation by exaggerating its criticality and creating a strong leader and self-sacrificing heroes.
 
