@@ -1,7 +1,7 @@
 ---
 title: "The Role of Lawyers in Nuclear and Natural Disasters"
 weight: 204
-type: page
+type: essay
 epub: false
 pdf: false
 menu: false

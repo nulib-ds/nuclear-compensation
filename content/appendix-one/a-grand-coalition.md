@@ -2,7 +2,7 @@
 title: "A Grand Coalition for a Rise in the Consumption Tax is the Only Way"
 abstract: "This forum took place March - May 2011"
 weight: 102
-type: page
+type: essay
 epub: false
 pdf: false
 menu: false

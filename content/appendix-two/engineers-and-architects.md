@@ -1,7 +1,7 @@
 ---
 title: "The Role of Architects and Engineers"
 weight: 202
-type: page
+type: essay
 epub: false
 pdf: false
 menu: false

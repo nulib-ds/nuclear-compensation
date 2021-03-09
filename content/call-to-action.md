@@ -48,8 +48,6 @@ This leads to the third goal of a conversation about nuclear disaster compensati
 
 In sum, we are calling for a dialogue that is **anticipatory**, **participatory**, and **transnational** to best enable wiser decisions about nuclear power and its many consequences. We invite your ideas about possible forums that can move the conversation forward.
 
-<hr class="page-break" />
-
 {{< q-contributor range="page" format="name" align="right" >}}
 
 ***

@@ -1,11 +1,12 @@
 ---
 title: "Fukushima within the Configuration of the U.S. Cold War Strategy"
 weight: 203
-type: page
+type: essay
 epub: false
 pdf: false
 menu: false
-abstract: "This is the transcript of two interviews conducted in March 2012 as part of the Cornell East Asia Program symposium, “Japan’s Earthquake and Tsunami One Year Later: How Can We Bring Closure to Crises?” " 
+abstract: |
+    This is the transcript of two interviews conducted in March 2012 as part of the Cornell East Asia Program symposium, “Japan’s Earthquake and Tsunami One Year Later: How Can We Bring Closure to Crises?”
 contributor:
     -   first_name: Yuko
         last_name: Yamaguchi
@@ -15,9 +16,9 @@ contributor:
         last_name: Muto
 ---
 
-_A video of the interviews can be found here: https://vimeo.com/showcase/3602312/video/151428183 and https://vimeo.com/showcase/3602312/video/151186500_
-
 ##  Interview with Yuko Yamaguchi, Interviewed by Naoki Sakai, Translated by Joshua Young
+
+*[Watch the video of the interview](https://vimeo.com/showcase/3602312/video/151428183)*
 
 When I went to college after graduating high school, there was absolutely no critical perspective toward nuclear power. There was of course no nuclear engineering department at the University of Tokyo at the time \[in the 1950s\]. Later on \[in the 1960s\] we had the student protest movement against the university system. During those struggles Mr. Takagi and I realized that scientists at the university could not be faithful to their sense of social responsibility. Knowledge production was called into question in the student protest movement. Knowledge itself was problematized as a matter of politics. And this questioning of knowledge had a major impact on the student movement. Each of us responded to this question differently; we were young and at the beginning of our careers. For those of us who took this question seriously and were starting out as young researchers, it was impossible to avoid asking whether we could possibly do our scientific work outside the proscriptions imposed by our employers, be it the government, a university, or a corporation. This was a critical problem of \"the microphysics of work-place politics.\" It is in this context that in his later life Mr. Takagi came up with the idea of the "citizen scientist." In contrast, those intellectuals who supported nuclear power were untroubled by this question. You mentioned this question of the micro physics of work-place politics in a note you sent me a few days ago. We are conditioned by this physics, which has created an antagonism among us, researchers, between the supporters and the opponents of nuclear power. Antagonism over nuclear power is not only about policy; it has to do with the way of life and thought from the 1960's until today. The fundamental meaning of the March 11 Fukushima disaster is the history of this antagonism.
 
@@ -46,6 +47,8 @@ Well, as you say, from immediately after the incident, NHK has invited many oppo
 ### **I wonder how such a program could be justified within the NHK. Were there any who complained about such a policy? I cannot understand it, either. Tokyo Shinbun has been active in reporting on the problems of nuclear power. They collect information widely and investigate news sources thoroughly. But Tokyo Shimbun is an exception. Many young idealistic people join the world of journalism every year, yet generally speaking, they are tamed and deprived of their idealism. Is it because of a structure of the state?**
 
 ## Interview with Ichiyo Muto, interviewed by Naoki Sakai
+
+*[Watch the video of the interview](https://vimeo.com/showcase/3602312/video/151186500)*
 
 1954 was a very, very important year in many senses, but one important thing that happened was the Bikini Atoll incident. On March 1, an American hydrogen bomb was detonated for experimental purposes on Bikini Atoll in the Pacific. This caused the radioactive exposure of the Japanese fishing boat Lucky Dragon \#5. Twenty-three Japanese fishermen were exposed to what was called "the ash of death," radioactive fallout from the nuclear explosion. The Bikini incident triggered a tremendous popular movement, and that movement was one of the two or three major, mass movements in post-war Japanese history. The Bikini incident started the first of these mass movements. Out of it came a sort of permanent movement that from the beginning addressed both world public opinion and the governments of the world. This initiative led to an international movement and the first world conference was held in Hiroshima in 1955.
 
