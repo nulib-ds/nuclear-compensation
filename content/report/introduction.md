@@ -87,11 +87,11 @@ Nuclear energy itself is also deeply transnational given its international secur
 
 In light of the transnational currents the Fukushima disaster touches on, Meridian 180 recognizes that many issues we face in today's world are exceedingly complex and are simultaneously both highly technical and deeply social, cultural, and human. This is put into further relief as the disaster---and, specifically, what is widely regarded as its mismanagement on the part of the Japanese government and TEPCO---has exposed the socio-economic, political, and deeply human dimensions of complex technology. The disaster has moreover intensified public distrust for expertise and experts and has revealed a series of intellectual and policy challenges that today's transnational issues pose collectively. These complex global issues call for globally collaborative, cross-disciplinary, and cross-professional solutions incorporating diverse perspectives and values, as well as diverse forms of expert and non-expert knowledge. Meridian 180 seeks to offer a space for this broad consultation. In other words, what Meridian 180 strives to offer is a process for truly democratic conversation about critical issues of today's world. Meridian 180's engagement with post-Fukushima Japan described below serves as a model for this collaborative process.
 
-Meridian 180's engagement with the Fukushima disaster and its after-effects began with the project's two inaugural online multilingual forums: "[Cry from the Scene](./appendix/1/#cry-from-the-scene)," proposed and facilitated by Naoki Kasuga, a renowned cultural anthropologist based at Hitotsubashi University, Tokyo, addressing the crisis of knowledge surrounding radiation and radiation exposure; and "[A Grand Coalition for a Rise in the Consumption Tax is the Only Way](./appendix/1/#a-grand-coalition-for-a-rise-in-the-consumption-tax-is-the-only-way)," proposed and facilitated by Yuji Genda, an influential labor economist and public intellectual based at the University of Tokyo Institute for Social Science, addressing Japan's fiscal and political crisis following Japan's natural and nuclear disaster. These forums provided a distinctive space for transnational dialogues and reflections as Japan's crisis unfolded in the midst of confusion and uncertainty.
+Meridian 180's engagement with the Fukushima disaster and its after-effects began with the project's two inaugural online multilingual forums: "[Cry from the Scene](/appendix/1/#cry-from-the-scene)," proposed and facilitated by Naoki Kasuga, a renowned cultural anthropologist based at Hitotsubashi University, Tokyo, addressing the crisis of knowledge surrounding radiation and radiation exposure; and "[A Grand Coalition for a Rise in the Consumption Tax is the Only Way](/appendix/1/#a-grand-coalition-for-a-rise-in-the-consumption-tax-is-the-only-way)," proposed and facilitated by Yuji Genda, an influential labor economist and public intellectual based at the University of Tokyo Institute for Social Science, addressing Japan's fiscal and political crisis following Japan's natural and nuclear disaster. These forums provided a distinctive space for transnational dialogues and reflections as Japan's crisis unfolded in the midst of confusion and uncertainty.
 
-One year after the disaster, Meridian 180 once again hosted an online forum titled "[How Can We Bring Closure to Crises?](./appendix/1/)" Following the online forum, the project hosted a conference on the topic jointly with Cornell University's East Asia Program. In conjunction with this conference, Meridian 180 also recorded reflections on Japan's crisis by a broad range of experts, from anti-nuclear activists to a humanitarian NGO leader, an architect, a lawyer, and an [economist](./appendix/2/#the-role-of-economists).
+One year after the disaster, Meridian 180 once again hosted an online forum titled "[How Can We Bring Closure to Crises?](/appendix/1/)" Following the online forum, the project hosted a conference on the topic jointly with Cornell University's East Asia Program. In conjunction with this conference, Meridian 180 also recorded reflections on Japan's crisis by a broad range of experts, from anti-nuclear activists to a humanitarian NGO leader, an architect, a lawyer, and an [economist](/appendix/2/#the-role-of-economists).
 
-In preparation for the first Meridian 180 global summit in Okinawa in July 2016, Meridian 180 established a global working group focusing on the nuclear disaster in Fukushima. The working group included legal professionals, environmental activists, and social scientists from Japan, South Korea, Europe, and the US. The group first hosted an online forum on the future of nuclear energy and solicited input from a diverse group of scholars and professionals, including [experts on nuclear energy](./appendix/1/). The dialogue included a former US nuclear regulator, experts on the accidents in Three Mile Island and Chernobyl, experts on environmental disasters, renewable energy researchers and activists, legal scholars and lawyers working with victims of the disaster in Fukushima, and project finance specialists and others working with the nuclear industry. These scholars and professionals also came from various parts of the world including Europe, the US, Japan, South Korea, China, and Singapore. Other Meridian 180 members who had not actively been involved in nuclear energy-related issues also offered valuable perspectives informed by their own expertise and experience.
+In preparation for the first Meridian 180 global summit in Okinawa in July 2016, Meridian 180 established a global working group focusing on the nuclear disaster in Fukushima. The working group included legal professionals, environmental activists, and social scientists from Japan, South Korea, Europe, and the US. The group first hosted an online forum on the future of nuclear energy and solicited input from a diverse group of scholars and professionals, including [experts on nuclear energy](/appendix/1/). The dialogue included a former US nuclear regulator, experts on the accidents in Three Mile Island and Chernobyl, experts on environmental disasters, renewable energy researchers and activists, legal scholars and lawyers working with victims of the disaster in Fukushima, and project finance specialists and others working with the nuclear industry. These scholars and professionals also came from various parts of the world including Europe, the US, Japan, South Korea, China, and Singapore. Other Meridian 180 members who had not actively been involved in nuclear energy-related issues also offered valuable perspectives informed by their own expertise and experience.
 
 The question of the economic, social, and other costs of nuclear energy quickly became a major focus of this dialogue.[^40] The group discussed a broad range of costs, from the costs of nuclear power plant decommissioning to the costs of site clean-up and spent fuel storage to the human costs of uranium extraction.[^41] It became clear that the group needed to seek a fuller picture of the costs of compensation for nuclear disasters in order to make policy recommendations about the future of nuclear energy as part of a broader solution to climate change.
 
@@ -99,7 +99,7 @@ After three days of conversation, the issue of compensation emerged as a useful 
 
 ### Outline of the Report
 
-This report consists of four chapters. The [first chapter](./report/1/) contains a set of brief reports written by scholars and activists working directly with victims of the nuclear disaster in Fukushima. The "Fukushima Team" of the Meridian 180 Global Working Group includes four previously unrelated individuals. Takao Suami is a professor of law at Waseda University. A specialist in EU law, since 2012 Suami has been involved in a legal clinic organized by a group of law professors at Waseda University to aid victims of the nuclear disaster in Namie and other municipalities in Fukushima Prefecture. Yuki Ashina is an attorney based in Shizuoka Prefecture. A graduate of a prestigious law school, Ashina chose to participate in the Japan Federation of Bar Associations' program to send young lawyers to rural parts of Japan where there are few legal professionals, and she spent the first two and half years of her legal professional career in Soma City, 31 miles north of the Fukushima Daiichi Power Plant. Since the nuclear disaster, Ashina has provided legal assistance for evacuees from Fukushima and has been involved in several claims and lawsuits against TEPCO and the Japanese government. Satsuki Takahashi is an environmental anthropologist who conducted her doctoral research in a fishing village near the Fukushima Daiichi Nuclear Power Plant. Takahashi has been conducting field research on families involved in fishery in Soma City. Nobuyo Fujinaga is a veteran civic activist based in Osaka who has been passionately involved in environmental and anti-nuclear activism.
+This report consists of four chapters. The [first chapter](/report/1/) contains a set of brief reports written by scholars and activists working directly with victims of the nuclear disaster in Fukushima. The "Fukushima Team" of the Meridian 180 Global Working Group includes four previously unrelated individuals. Takao Suami is a professor of law at Waseda University. A specialist in EU law, since 2012 Suami has been involved in a legal clinic organized by a group of law professors at Waseda University to aid victims of the nuclear disaster in Namie and other municipalities in Fukushima Prefecture. Yuki Ashina is an attorney based in Shizuoka Prefecture. A graduate of a prestigious law school, Ashina chose to participate in the Japan Federation of Bar Associations' program to send young lawyers to rural parts of Japan where there are few legal professionals, and she spent the first two and half years of her legal professional career in Soma City, 31 miles north of the Fukushima Daiichi Power Plant. Since the nuclear disaster, Ashina has provided legal assistance for evacuees from Fukushima and has been involved in several claims and lawsuits against TEPCO and the Japanese government. Satsuki Takahashi is an environmental anthropologist who conducted her doctoral research in a fishing village near the Fukushima Daiichi Nuclear Power Plant. Takahashi has been conducting field research on families involved in fishery in Soma City. Nobuyo Fujinaga is a veteran civic activist based in Osaka who has been passionately involved in environmental and anti-nuclear activism.
 
 The Fukushima team's chapter shows how the current Japanese framework for damage compensation, as expensive as it may be, still does not address a broad range of significant loss and damage sustained by victims of the disaster. Some victims have not received any compensation at all due to their residence outside the mandatory evacuation zones.[^42] Others feel that other kinds of loss and damage not recognized within the current compensation scheme also ought to be compensated. These include the loss of ancestral homelands, social relationships, and normal daily life,[^43] as well as other kinds of damage and loss not readily visible or calculable in monetary terms.[^44]
 
@@ -109,7 +109,7 @@ As Suami points out, however, damage caused by a nuclear disaster is particularl
 
 The Fukushima team's chapter draws attention to the specific temporal dimensions of a nuclear accident and their implications for the damage compensation framework. Satsuki Takahashi suggests that a nuclear accident damage compensation scheme should not only compensate for what has been lost but also for continuing and ongoing losses in the present as well as into the future.[^48] Suami also points to types of damage that may not end in the near future. For example, the health effects of low-level radiation exposure are not well-known and anxiety about potential long-term effects is likely to continue for many years to come. Likewise, voluntary evacuees may face new challenges in their new locations and may encounter secondary damage.[^49]
 
-The [second](./report/2/) and [third](./report/3/) chapters of this report are written by two science and technology studies scholars specializing in nuclear issues: Mary Mitchell, who has studied legal cases involving Marshall Islanders exposed to radiation caused by nuclear weapons testing in the Pacific, and Sonja Schmid, who has written extensively on the Chernobyl disaster. What these chapters make clear is the fact that, at least on the surface, the three accidents---Three Mile Island, Chernobyl, and Fukushima---are not straightforwardly comparable. First, the three major accidents took place in three different specific situations---the US, the Soviet Union, and Japan, respectively---at three different historical junctures. Each accident has contributed to the revision of the associated country's regulatory and safety standards as well as the adjustment of compensation schemes, and each accident has led to the reevaluation, review, and in some cases, the amendment of existing international conventions. Yet, the Fukushima case shows that even large amounts of compensation do not fully address the loss and damage sustained by victims.
+The [second](/report/2/) and [third](/report/3/) chapters of this report are written by two science and technology studies scholars specializing in nuclear issues: Mary Mitchell, who has studied legal cases involving Marshall Islanders exposed to radiation caused by nuclear weapons testing in the Pacific, and Sonja Schmid, who has written extensively on the Chernobyl disaster. What these chapters make clear is the fact that, at least on the surface, the three accidents---Three Mile Island, Chernobyl, and Fukushima---are not straightforwardly comparable. First, the three major accidents took place in three different specific situations---the US, the Soviet Union, and Japan, respectively---at three different historical junctures. Each accident has contributed to the revision of the associated country's regulatory and safety standards as well as the adjustment of compensation schemes, and each accident has led to the reevaluation, review, and in some cases, the amendment of existing international conventions. Yet, the Fukushima case shows that even large amounts of compensation do not fully address the loss and damage sustained by victims.
 
 Second, the three accidents are also vastly different in terms of their respective gravity. Compared to the Chernobyl and Fukushima disasters, both of which have been rated by the IAEA as Level 7 major accidents, the Three Mile Island incident was relatively less severe and has been rated as a Level 5 accident by IAEA. In her chapter, however, Mitchell suggests that, precisely because of this difference, the Three Mile Island case offers a distinctive set of insights about "how the boundaries of nuclear compensation are drawn and contested when uncertainty abounds and causal linkages between incident and injuries are difficult to discern."[^50]
 
@@ -121,7 +121,7 @@ Mitchell notes that, in the Three Mile Island accident, the private insurers of 
 
 As Sonja Schmid explains in this chapter, at the time of the Chernobyl accident there was no legal framework for handling nuclear compensation in the Soviet Union. Instead, the compensation scheme for victims of the Chernobyl disaster was based on existing procedures for processing compensation and social benefits for war veterans, disabled persons, and others. Under this administrative process for processing compensation payouts, "privileges and compensations were determined according to the levels of radioactive contamination in the territories."[^55] Twelve different levels of entitlement and compensation were developed according to different radiation dose levels and locations of residence. However, this scheme ultimately failed due to the Soviet Union's economic crisis and eventual collapse. Schmid observes, "Many of the benefits, privileges, and compensation alike, might have been enough and more or less effective in a system with full employment, state-owned housing, state-run medical and education systems and a controlled currency."[^56] The history of the evolution of the compensation frameworks in Russia and other affected former Soviet countries shows how states have struggled with the definition of "affected" areas and persons. As medical anthropologist Adriana Petryna has powerfully shown, victims struggled to prove the harm they had sustained.[^57]
 
-The three chapters on the Fukushima, Three Mile Island and Chernobyl accidents, respectively, amply demonstrate the limitations of existing compensation schemes. Each accident poses fundamental questions about what constitutes victimhood, what counts as damage, and how to prove the causal linkage between radiation exposure and medical symptoms in the context of a nuclear power plant accident. The [fourth chapter](./report/4/), authored by three legal scholars, Mary Mitchell, Annelise Riles, and Dai Yokomizo, addresses issues raised by several trans-border lawsuits concerning compensation claims related to the Fukushima disaster. These lawsuits include cases involving US military personnel who participated in Operation Tomodachi, a disaster response operation completed by US military forces immediately following Japan's triple disaster. The authors discuss how Fukushima was not the first nuclear disaster whose impacts went beyond the borders of a single country. The Chernobyl disaster significantly affected many parts of Europe. After the Chernobyl disaster, however, the Soviet Union did not provide compensation for any harm resulting from the accident outside Soviet territory. At that time, the Soviet Union was not a signatory to any of the existing international conventions governing nuclear compensation, and various affected European countries handled compensation claims mostly internally within each country's framework for dealing with environmental disaster.
+The three chapters on the Fukushima, Three Mile Island and Chernobyl accidents, respectively, amply demonstrate the limitations of existing compensation schemes. Each accident poses fundamental questions about what constitutes victimhood, what counts as damage, and how to prove the causal linkage between radiation exposure and medical symptoms in the context of a nuclear power plant accident. The [fourth chapter](/report/4/), authored by three legal scholars, Mary Mitchell, Annelise Riles, and Dai Yokomizo, addresses issues raised by several trans-border lawsuits concerning compensation claims related to the Fukushima disaster. These lawsuits include cases involving US military personnel who participated in Operation Tomodachi, a disaster response operation completed by US military forces immediately following Japan's triple disaster. The authors discuss how Fukushima was not the first nuclear disaster whose impacts went beyond the borders of a single country. The Chernobyl disaster significantly affected many parts of Europe. After the Chernobyl disaster, however, the Soviet Union did not provide compensation for any harm resulting from the accident outside Soviet territory. At that time, the Soviet Union was not a signatory to any of the existing international conventions governing nuclear compensation, and various affected European countries handled compensation claims mostly internally within each country's framework for dealing with environmental disaster.
 
 Mitchell, Riles, and Yokomizo note Japan was not a signatory to any international conventions at the time of the Fukushima disaster either, and this has ironically created opportunities for cross-border lawsuits for victims. This is particularly ironic given that the Japanese government's initial hesitation to join the Convention on Supplementary Compensation for Nuclear Damage of 1997 (CSC) had much to do with the convention's impact on jurisdictional issues. The CSC gives jurisdiction to the country in which an accident occurs and prior to the Fukushima disaster, the Japanese government was reluctant to join because it would prevent Japanese victims of a nuclear accident in a neighboring country, such as China and Korea, from using the Japanese legal system to wage lawsuits against the operator of the troubled power plant.[^58] At that time, the Japanese government perhaps did not take seriously the possibility of facing a nuclear disaster in Japan and its transnational repercussions. Precisely because Japan was not a signatory to the CSC at the time of the Fukushima disaster, however, TEPCO and the Japanese government can be sued outside of Japan for damage stemming from the disaster, and several lawsuits have taken advantage of this situation.[^59]
 
@@ -167,13 +167,13 @@ Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a c
 
 [^12]: Significantly, India's Civil Liability for Nuclear Damage Act, 2010, includes a provision for manufacturers' liability. See Mohit Abraham's important discussion of India's distinctive approach to issues of nuclear damage compensation ({{< q-cite "Abraham 2014" >}}).
 
-[^13]: See also Mitchell, Riles, and Yokomizo, this report, [Chapter 4](./report/4/).
+[^13]: See also Mitchell, Riles, and Yokomizo, this report, [Chapter 4](/report/4/).
 
-[^14]: {{< q-cite "Endo 2013" "25" >}}. See also Mitchell, this report, [Chapter 2](./report/2/).
+[^14]: {{< q-cite "Endo 2013" "25" >}}. See also Mitchell, this report, [Chapter 2](/report/2/).
 
-[^15]:{{< q-cite "Endo 2013" "25-26, 57-81" >}}; Mitchell, this report, [Chapter 2](./report/2/); and Mitchell, Riles, and Yokomizo, this report, [Chapter 4](./report/4/).
+[^15]:{{< q-cite "Endo 2013" "25-26, 57-81" >}}; Mitchell, this report, [Chapter 2](/report/2/); and Mitchell, Riles, and Yokomizo, this report, [Chapter 4](/report/4/).
 
-[^16]: Mitchell, this report, [Chapter 2](./report/2/); Mitchell, Riles, and Yokomizo, this report, [Chapter 4](./report/4/).
+[^16]: Mitchell, this report, [Chapter 2](/report/2/); Mitchell, Riles, and Yokomizo, this report, [Chapter 4](/report/4/).
 
 [^17]: {{< q-cite "World Nuclear Association 2018" >}}
 
@@ -187,7 +187,7 @@ Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a c
 
 [^22]: {{< q-cite "Lerner and Tanzman 2013" "594" >}}
 
-[^23]: See Mitchell, this report, [Chapter 2](./report/2/).
+[^23]: See Mitchell, this report, [Chapter 2](/report/2/).
 
 [^24]: {{< q-cite "Endo 2013" "47-48" >}}
 
@@ -215,7 +215,7 @@ Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a c
 
 [^36]: {{< q-cite "Endo 2013" "244-248" >}}
 
-[^37]: See Mitchell, Riles, and Yokomizo, this report, [Chapter 4](./report/4/).
+[^37]: See Mitchell, Riles, and Yokomizo, this report, [Chapter 4](/report/4/).
 
 [^38]: {{< q-cite "Chunichi 2013" >}}. See also {{< q-cite "Penney 2012" >}}
 
@@ -225,41 +225,41 @@ Svetlana Alexievich remarks in *Chernobyl Prayer*, "Chernobyl is, above all, a c
 
 [^41]: See also {{< q-cite "Hecht 2012" >}}
 
-[^42]: See Ashina, this report, [Chapter 1](./report/1/), Section III.
+[^42]: See Ashina, this report, [Chapter 1](/report/1/), Section III.
 
-[^43]: See Ashina, this report, [Chapter 1](./report/1/), Section II; Suami, this report, Chapter 1, Section III.
+[^43]: See Ashina, this report, [Chapter 1](/report/1/), Section II; Suami, this report, Chapter 1, Section III.
 
-[^44]: See Fujinaga, this report, [Chapter 1](./report/1/), Section III.
+[^44]: See Fujinaga, this report, [Chapter 1](/report/1/), Section III.
 
-[^45]: See Suami, this report, [Chapter 1](./report/1/), Section III.
+[^45]: See Suami, this report, [Chapter 1](/report/1/), Section III.
 
-[^46]: Suami, this report, [Chapter 1](./report/1/), Section III.
+[^46]: Suami, this report, [Chapter 1](/report/1/), Section III.
 
-[^47]: Suami, Ashina and Takahashi, this report,[Chapter 1](./report/1/), Section VII.
+[^47]: Suami, Ashina and Takahashi, this report,[Chapter 1](/report/1/), Section VII.
 
-[^48]: See Takahashi, this report, [Chapter 1](./report/1/), Section IV.
+[^48]: See Takahashi, this report, [Chapter 1](/report/1/), Section IV.
 
-[^49]: Suami, this report, [Chapter 1](./report/1/), Section V.
+[^49]: Suami, this report, [Chapter 1](/report/1/), Section V.
 
-[^50]: Mitchell, this report, [Chapter 2](./report/2/).
+[^50]: Mitchell, this report, [Chapter 2](/report/2/).
 
-[^51]: Mitchell, this report, [Chapter 2](./report/2/).
+[^51]: Mitchell, this report, [Chapter 2](/report/2/).
 
-[^52]: Mitchell, this report, [Chapter 2](./report/2/).
+[^52]: Mitchell, this report, [Chapter 2](/report/2/).
 
-[^53]: Mitchell, this report, [Chapter 2](./report/2/).
+[^53]: Mitchell, this report, [Chapter 2](/report/2/).
 
-[^54]: Mitchell, this report, [Chapter 2](./report/2/).
+[^54]: Mitchell, this report, [Chapter 2](/report/2/).
 
-[^55]: Schmid, this report, [Chapter 3](./report/3/).
+[^55]: Schmid, this report, [Chapter 3](/report/3/).
 
-[^56]: Schmid, this report, [Chapter 3](./report/3/).
+[^56]: Schmid, this report, [Chapter 3](/report/3/).
 
 [^57]: {{< q-cite "Petryna 2002" >}}
 
 [^58]: {{< q-cite "Endo 2013" "105-108" >}}
 
-[^59]: Mitchell, Riles, and Yokomizo, this report, [Chapter 4](./report/4/).
+[^59]: Mitchell, Riles, and Yokomizo, this report, [Chapter 4](/report/4/).
 
 [^60]: {{< q-cite "Koga 2013" "503" >}}
 
