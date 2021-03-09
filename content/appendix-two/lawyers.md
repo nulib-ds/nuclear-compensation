@@ -3,7 +3,6 @@ title: "The Role of Lawyers in Nuclear and Natural Disasters"
 weight: 204
 type: essay
 epub: false
-pdf: false
 menu: false
 abstract: "This is the transcript of a presentation and an interview conducted in March 2012 as part of the Cornell East Asia Program symposium, “Japan’s Earthquake and Tsunami One Year Later: How Can We Bring Closure to Crises?”"
 contributor:

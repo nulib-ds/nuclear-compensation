@@ -8,6 +8,8 @@ toc: false
 
 {{< q-class "backmatter" >}}
 
+**This is the expanded edition of _Nuclear Compensation: Lessons from Fukushima_, containing the appendices from the Meridian 180 Forums and interview transcripts with experts and intellectuals.**
+
 The free online edition of this publication is available at [nuclear-compensation.northwestern.pub](http://nuclear-compensation.northwestern.pub). Also available is a free PDF download of the book.
 
 © 2021 The Authors
@@ -31,7 +33,7 @@ Toshihiko Watanabe, *Cover Design*<br />
 
 {{< q-class "cip-data" >}}
 
-- Identifiers: LCCN 2021933415 (print) | ISBN 978-1-954984-00-4 (paperback) | ISBN 978-1-954984-01-1 (pdf) | DOI 10.21985/n2-bxst-y593
+- Identifiers: DOI 10.21985/n2-bxst-y593
 
 {{< /q-class >}}
 

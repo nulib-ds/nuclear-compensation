@@ -4,7 +4,6 @@ abstract: "This forum took place December 2015 – February 2016"
 weight: 104
 type: essay
 epub: false
-pdf: false
 menu: false
 contributor:
     -   first_name: Hirokazu

@@ -3,7 +3,6 @@ title: "The Role of Civil Society"
 weight: 201
 type: essay
 epub: false
-pdf: false
 menu: false
 contributor:
     -   first_name: Chika 

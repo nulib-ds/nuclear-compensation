@@ -3,7 +3,6 @@ title: "Fukushima within the Configuration of the U.S. Cold War Strategy"
 weight: 203
 type: essay
 epub: false
-pdf: false
 menu: false
 abstract: |
     This is the transcript of two interviews conducted in March 2012 as part of the Cornell East Asia Program symposium, “Japan’s Earthquake and Tsunami One Year Later: How Can We Bring Closure to Crises?”

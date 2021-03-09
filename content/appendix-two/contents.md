@@ -7,5 +7,4 @@ class: list
 slug: .
 search: false
 epub: false
-pdf: false
 ---

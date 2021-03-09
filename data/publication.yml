@@ -11,7 +11,7 @@
 # Title & Description
 title: Nuclear Compensation
 subtitle: Lessons from Fukushima
-#reading_line: with additional voices of experts and intellectuals
+reading_line: Meridian 180 Forums, Interviews with Experts and Intellectuals
 short_title: Nuclear Compensation
 url: https://doi.org/10.21985/n2-bxst-y593
 
@@ -55,7 +55,7 @@ contributor:
     bio: |
       Hirokazu Miyazaki is Professor of Anthropology and the Kay Davis Professor at Northwestern University. He also serves as Professor (Special Appointment) in the International Peace and Coexistence Program in the Graduate School of the Humanities and the Social Sciences at Hiroshima University. Miyazaki was trained in anthropology in Japan and at the Australian National University, where he earned a Ph.D. as a specialist of Fiji and the Pacific Islands. Miyazaki subsequently contributed to the formation of the interdisciplinary field of the social studies of finance. His current research focuses on civic activism surrounding the uses of nuclear power. In February 2018, Miyazaki was appointed by the Mayor of Nagasaki as a Nagasaki Peace Correspondent and has been engaged in a variety of forms of peace education. Before joining the Northwestern University Department of Anthropology as the Kay Davis Professor, Miyazaki taught anthropology at Cornell University for sixteen years. From July 2015-June 2018, Miyazaki served as the Director of the Mario Einaudi Center for International Studies and the John S. Knight Professor of International Studies at Cornell. Miyazaki’s publications include *The Method of Hope: Anthropology, Philosophy, and Fijian Knowledge* (Stanford University Press, 2004), *Arbitraging Japan: Dreams of Capitalism at the End of Finance* (University of California Press, 2012), and *The Economy of Hope* (co-edited with Richard Swedberg, University of Pennsylvania Press, 2017).       
     url: https://www.anthropology.northwestern.edu/people/faculty/hirokazu-miyazaki.html
-    pic: contributors/miyazaki.jpg
+    #pic: contributors/miyazaki.jpg
   - id: yashina
     type: secondary
     first_name: Yuki 
@@ -65,7 +65,7 @@ contributor:
     bio: |
       Ashina Yuki is a lawyer currently based in Shizuoka City. She started her career as a lawyer in 2003. After a training period of one and a half years at a law office in Tokyo, she worked for two and a half years as the first director of a public interest law office located on the coast of Fukushima Prefecture. The office, which was founded by the Japan Federation of Bar Associations (JFBA), provides legal services to residents in the area, where there are few attorneys. Since the Fukushima Daiichi Nuclear Power Plant Accident in 2011, she has devoted herself to supporting the victims of the accident. She is also one of the core members of the JFBA Disaster Reconstruction Assistance Committee. She studied at the University of Illinois at Urbana-Champaign as a visiting scholar sent by the JFBA from June, 2019 to June, 2020. Her research compared the compensation system of mass torts in the United States and Japan.
     url: http://hinodecho-law.jp/aboutus/index2.html
-    pic: contributors/ashina.jpg
+    #pic: contributors/ashina.jpg
   - id: stakahashi
     type: secondary
     first_name: Satsuki
@@ -75,7 +75,7 @@ contributor:
     bio: |
       Satsuki Takahashi is an anthropologist and associate professor in the Faculty of Sustainability Studies, Hosei University, Tokyo. She received her BS in Fisheries Science from the Tokyo University of Fisheries and her MA and PhD in Anthropology from Rutgers University. Before joining Hosei, she was an assistant professor in the Department of Sociology and Anthropology at George Mason University, and also served as the Toyota Visiting Professor at the Center for Japanese Studies at the University of Michigan (2015-2016). In addition to a number of academic articles and book chapters, she has published a co-edited book, *To See Once More the Stars: Living in a post-Fukushima World* (New Pacific Press, 2014). She is currently preparing an ethnographic monograph, *Fukushima Future*, which discusses how the infamous seascape has been produced through entangled relationships among fishing families, the coastal environment, and Japan’s unending drive for futurism.  
     url:
-    pic: contributors/takahashi.png
+    #pic: contributors/takahashi.png
   - id: nfujinaga
     type: secondary
     first_name: Nobuyo
@@ -85,7 +85,7 @@ contributor:
     bio: |
       Nobuyo Fujinaga is a veteran environmental and consumer activist based in Osaka. Since 1991, Fujinaga has led a civic activist group, Osaka Citizens’ Network, and has worked closely with various environmental and renewable energy advocacy groups in Europe and South Korea. 
     url:
-    pic: contributors/fujinaga.png
+    #pic: contributors/fujinaga.png
   - id: tsuami
     type: secondary
     first_name: Takao
@@ -95,7 +95,7 @@ contributor:
     bio: |
       Takao Suami is a professor at Waseda University law School, in Tokyo, Japan. He studied law at the University of Tokyo (LL.B.), Cornell Law School (LL.M.), and the University of Leuven (KU Leuven) (LL.M.). He was previously an associate professor at Yokohama National University. He was also a visiting professor at Duke University law School in 2007 and at the University of Pennsylvania Law School in 2016. He formerly served as the president of the Japanese Association of EU Studies. He is a council member of the Japan Association of International Economic Law and a member of the board of trustees of the Japanese Association of International Law. His teaching and research interests lie in EU law, international economic law, competition law, professional responsibility, and judicial policy making in Japan.
     url:
-    pic: contributors/suami.jpg
+    #pic: contributors/suami.jpg
   - id: mmitchell
     type: secondary
     first_name: M. X.
@@ -105,7 +105,7 @@ contributor:
     bio: |
       Mitchell is an assistant professor at the Centre for Criminology and Sociolegal Studies at the University of Toronto. Her work centers on the intersections of science and technology with law and environmental social movements in the nuclear era. Focusing on radiological risk, Mitchell's research examines the production of environmental inequality in the United States and transnationally.
     url: http://www.mxmitchell.com/
-    pic: contributors/mitchell.jpg
+    #pic: contributors/mitchell.jpg
   - id: sschmid
     type: secondary
     first_name: Sonja D.
@@ -115,7 +115,7 @@ contributor:
     bio: |
       Sonja Schmid is an associate professor of Science and Technology Studies (STS), and serves as the co-director of the STS graduate program in Northern Virginia. For her first book, she studied the history and organization of the emerging Soviet nuclear industry. In other research, she traced the results of Soviet nuclear technology transfer to Central and East European nations that have since joined the European Union. She is particularly interested in examining the interface of national energy policies, technological choices, and nonproliferation concerns. For her most recent NSF-supported research project on the challenges of globalizing nuclear emergency response, she has worked with postdoctoral scholars Davide Orsini and Başak Saraç Lesavre, and has hosted a monthly speaker series (SIREN) that is now available as an online archive. She teaches courses in social studies of technology, science and technology policy, socio-cultural studies of risk, energy policy, and nuclear nonproliferation. Together with the Nuclear Engineering Program and the School of Public and International Affairs at Virginia Tech, she developed and launched an interdisciplinary graduate certificate in “Nuclear Science, Technology, and Policy.”
     url: https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/sonja-schmid.html
-    pic: contributors/schmid.jpg
+    #pic: contributors/schmid.jpg
   - id: ariles
     type: secondary
     first_name: Annelise
@@ -125,7 +125,7 @@ contributor:
     bio: |
       Annelise Riles is the Executive Director of the Roberta Buffett Institute for Global Studies at Northwestern University, enhancing Northwestern’s reputation for cutting-edge, interdisciplinary programs and research on globally relevant topics. Riles will also be the Associate Provost for Global Affairs and a professor of law and anthropology. Her scholarship spans a wide range of substantive areas including human rights, managing and accommodating cultural differences, and the regulation of the global financial markets. Key areas in legal studies include comparative law, the conflict of laws, financial regulation, socio-legal studies and international law. In anthropology, her work is known for its methodological contributions as well as for its contributions to the study of international institutions and expertise.
     url: https://www.law.northwestern.edu/faculty/profiles/AnneliseRiles/
-    pic: contributors/riles.jpg
+    #pic: contributors/riles.jpg
   - id: dyokomizo
     type: secondary
     first_name: Dai
@@ -135,7 +135,7 @@ contributor:
     bio: |
       Dai YOKOMIZO is Professor of Law at Nagoya University, Graduate School of Law, Nagoya, Japan, where he has taught since 2008.  A graduate of The University of Tokyo Graduate School for Law and Politics (LL.B., LL.M.), Professor Yokomizo’s main research and teaching interests include Conflict of Laws (Private International Law), Comparative Law and Private Law Theory.  He is a member at the Committee on Intellectual Property and Private International Law of International Law Association, Associate Editor of the Japanese Yearbook of International Law, member of the Advisory Board of the Italian Law Journal, and Member of the International Committee of Rivista di Diritto Sportivo.
     url: https://researchmap.jp/Dai_YOKOMIZO
-    pic: contributors/yokomizo.jpg
+    #pic: contributors/yokomizo.jpg
   - id: rslayton
     type: secondary
     first_name: Rebecca
@@ -145,7 +145,7 @@ contributor:
     bio: |
       Rebecca Slayton is Director of the Judith Reppy Institute for Peace and Conflict Studies and Associate Professor in the Department of Science & Technology Studies, both at Cornell University. Slayton’s research and teaching examine the relationships between and among risk, governance, and expertise, with a focus on international security and cooperation since World War II. Her first book, *Arguments that Count: Physics, Computing, and Missile Defense, 1949-2012* (MIT Press, 2013), shows how the rise of a new field of expertise in computing reshaped public policies and perceptions about the risks of missile defense in the United States. In 2015, *Arguments that Count* won the Computer History Museum Prize. In 2019, Slayton was also a recipient of the United States Presidential Early Career Award for Scientists and Engineers. 
     url: https://einaudi.cornell.edu/discover/people/rebecca-slayton
-    pic: contributors/rslayton.jpg
+    #pic: contributors/rslayton.jpg
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
