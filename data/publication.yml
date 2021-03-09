@@ -168,6 +168,11 @@ resource_link:
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/Miyazaki_Nuclear-Compensation.pdf
+  - type: other-format
+    name: PDF (with appendices)
+    media_type: application/pdf
+    link_relation: alternate
+    url: /downloads/Miyazaki_Nuclear-Compensation_APPENDICES.pdf
 #  - type: other-format
 #    name: Paperback
 #    media_type: print
