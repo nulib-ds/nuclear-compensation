@@ -182,6 +182,10 @@ resource_link:
     name: About
     link_relation: about
     url: /about/
+  - type: footer-link
+    name: Media
+    link_relation: media
+    url: /media/
 #  - type: footer-link
 #    name: Privacy Policy
 #    link_relation: privacy-policy
